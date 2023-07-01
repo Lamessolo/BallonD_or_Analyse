@@ -1,31 +1,31 @@
-Primary_Key,Rank,Nom,Club,Selection,Poste,Points,year
-75,1,Roberto Baggio,Juventus FC,Italie,Attaquant,192,1993
-76,2,Dennis Bergkamp,Inter Milan,Pays-Bas,Attaquant,83,1993
-77,3,Eric Cantona,Manchester United,France,Attaquant,34,1993
-78,4,Alen Boksic,Lazio,Croatie,Attaquant,29,1993
-79,5,Michael Laudrup,FC Barcelone,Denmark,Attaquant,27,1993
-80,6,Franco Baresi,Milan AC,Italie,Attaquant,24,1993
-81,7,Paolo Maldini,Milan AC,Italie,Attaquant,19,1993
-82,8,Emil Kostadinov,Porto,Bulgarie,Attaquant,11,1993
-83,9,Stephane Chapuisat,Borussia Dortmund,Suisse,Attaquant,9,1993
-84,9,Ryan Giggs,Manchester United,Pays de Galles,Attaquant,9,1993
-85,11,Andreas Moller,Juventus FC,Allemagne,Attaquant,7,1993
-86,12,Ruud Gullit,Sampdoria,Pays-Bas,Attaquant,6,1993
-87,12,Peter Schmeichel,Manchester United,Denmark,Attaquant,6,1993
-88,12,Hristo Stoichkov,FC Barcelone,Bulgarie,Attaquant,6,1993
-89,15,Basile Boli,Marseille,France,Attaquant,5,1993
-90,15,Rune Bratseth,Werder Bremen,Norvege,Attaquant,5,1993
-91,17,Enzo Scifo,Monaco,Belgique,Attaquant,4,1993
-92,18,Andreas Herzog,Werder Bremen,Australie,Attaquant,3,1993
-93,18,Ronald Koeman,FC Barcelone,Pays-Bas,Attaquant,3,1993
-94,18,Jari Litmanen,Ajax,Finland,Attaquant,3,1993
-95,21,Dino Baggio,Juventus FC,Italie,Attaquant,2,1993
-96,21,Sergei Kiriakov,Karlsruher SC,Russie,Attaquant,2,1993
-97,21,David Platt,Sampdoria,England,Attaquant,2,1993
-98,21,Franck Sauzee,Atalanta,France,Attaquant,2,1993
-99,21,Giuseppe Signori,Lazio,Italie,Attaquant,2,1993
-100,26,Tomas Brolin,Parma,Suede,Attaquant,1,1993
-101,26,Martin Dahlin,Borussia Mönchengladbach,Suede,Attaquant,1,1993
-102,26,Georges Grün,Parma,Belgique,Attaquant,1,1993
-103,26,Stelios Manolas,AEK Athens,Grece,Attaquant,1,1993
-104,26,Paul McGrath,Aston Villa,Republic of Ireland,Attaquant,1,1993
+Primary_Key,Rank,Nom,Club,Selection,Poste,Points,Confederation,Type,Year
+75,1,Roberto Baggio,Juventus FC,Italie,Attaquant,192,UEFA,1,1993
+76,2,Dennis Bergkamp,Inter Milan,Pays-Bas,Attaquant,83,UEFA,1,1993
+77,3,Eric Cantona,Manchester United,France,Attaquant,34,UEFA,1,1993
+78,4,Alen Boksic,Lazio,Croatie,Attaquant,29,UEFA,1,1993
+79,5,Michael Laudrup,FC Barcelone,Danemark,Attaquant,27,UEFA,1,1993
+80,6,Franco Baresi,Milan AC,Italie,Attaquant,24,UEFA,1,1993
+81,7,Paolo Maldini,Milan AC,Italie,Attaquant,19,UEFA,1,1993
+82,8,Emil Kostadinov,Porto,Bulgarie,Attaquant,11,UEFA,1,1993
+83,9,Stephane Chapuisat,Borussia Dortmund,Suisse,Attaquant,9,UEFA,1,1993
+84,9,Ryan Giggs,Manchester United,Pays de Galles,Attaquant,9,UEFA,1,1993
+85,11,Andreas Moller,Juventus FC,Allemagne,Attaquant,7,UEFA,1,1993
+86,12,Ruud Gullit,Sampdoria,Pays-Bas,Attaquant,6,UEFA,1,1993
+87,12,Peter Schmeichel,Manchester United,Danemark,Attaquant,6,UEFA,1,1993
+88,12,Hristo Stoichkov,FC Barcelone,Bulgarie,Attaquant,6,UEFA,1,1993
+89,15,Basile Boli,Marseille,France,Attaquant,5,UEFA,1,1993
+90,15,Rune Bratseth,Werder Bremen,Norvege,Attaquant,5,UEFA,1,1993
+91,17,Enzo Scifo,Monaco,Belgique,Attaquant,4,UEFA,1,1993
+92,18,Andreas Herzog,Werder Bremen,Australie,Attaquant,3,UEFA,1,1993
+93,18,Ronald Koeman,FC Barcelone,Pays-Bas,Attaquant,3,UEFA,1,1993
+94,18,Jari Litmanen,Ajax,Finland,Attaquant,3,UEFA,1,1993
+95,21,Dino Baggio,Juventus FC,Italie,Attaquant,2,UEFA,1,1993
+96,21,Sergei Kiriakov,Karlsruher SC,Russie,Attaquant,2,UEFA,1,1993
+97,21,David Platt,Sampdoria,Anglettere,Attaquant,2,UEFA,1,1993
+98,21,Franck Sauzee,Atalanta,France,Attaquant,2,UEFA,1,1993
+99,21,Giuseppe Signori,Lazio,Italie,Attaquant,2,UEFA,1,1993
+100,26,Tomas Brolin,Parma,Suede,Attaquant,1,UEFA,1,1993
+101,26,Martin Dahlin,Borussia Mönchengladbach,Suede,Attaquant,1,UEFA,1,1993
+102,26,Georges Grün,Parma,Belgique,Attaquant,1,UEFA,1,1993
+103,26,Stelios Manolas,AEK Athens,Grece,Attaquant,1,UEFA,1,1993
+104,26,Paul McGrath,Aston Villa,Irelande,Attaquant,1,UEFA,1,1993

@@ -1,31 +1,31 @@
-Primary_Key,Rang,Nom,Club,Selection,Poste,Points,pourcentage_vote,year
-61,1,Luka Modric,Real Madrid,Croatie,Milieu de terrain,753,"26,14 ",2018
-62,2,Cristiano Ronaldo,Real Madrid,Portugal,Attaquant,476,"16,52 ",2018
-63,3,Antoine Griezmann,Atletico de Madrid,France,Attaquant,414,"14,37 ",2018
-64,4,Kylian Mbappe,Paris Saint-Germain,France,Attaquant,347,"12,04 ",2018
-65,5,Lionel Messi,FC Barcelone,Argentine,Attaquant,280,"9,72 ",2018
-66,6,Mohamed Salah,Liverpool FC,Egypte,Attaquant,188,"6,53 ",2018
-67,7,Raphael Varane,Real Madrid,France,Defenseur,121,"4,20 ",2018
-68,8,Eden Hazard,Chelsea FC,Belgique,Milieu de terrain Attaquant,119,"4,13 ",2018
-69,9,Kevin De Bruyne,Manchester City,Belgique,Milieu de terrain,29,"1,01 ",2018
-70,10,Harry Kane,Tottenham Hotspur,Angleterre,Attaquant,25,"0,87 ",2018
-71,11,N'Golo Kante,Chelsea FC,France,Milieu de terrain,24,"0,83 ",2018
-72,12,Neymar,Paris Saint-Germain,Bresil,Attaquant,19,"0,66 ",2018
-73,13,Luis Suarez,FC Barcelone,Uruguay,Attaquant,17,"0,59 ",2018
-74,14,Thibaut Courtois,Chelsea FC,Belgique,Gardien de but,12,"0,42 ",2018
-75,15,Paul Pogba,Manchester United,France,Milieu de terrain,9,"0,31 ",2018
-76,16,Sergio Aguero,Manchester City,Argentine,Attaquant,7,"0,24 ",2018
-77,17,Gareth Bale,Real Madrid,Pays de Galles,Attaquant,6,"0,21 ",2018
-78,17,Karim Benzema,Real Madrid,France,Attaquant,6,"0,21 ",2018
-79,19,Roberto Firmino,Liverpool FC,Bresil,Attaquant,4,"0,14 ",2018
-80,19,Ivan Rakitic,FC Barcelone,Croatie,Milieu de terrain,4,"0,14 ",2018
-81,19,Sergio Ramos,Real Madrid,Espagne,Defenseur,4,"0,14 ",2018
-82,22,Edinson Cavani,Paris Saint-Germain,Uruguay,Attaquant,3,"0,10 ",2018
-83,22,Sadio Mane,Liverpool FC,Senegal,Attaquant,3,"0,10",2018
-84,22,Marcelo,Real Madrid,Bresil,Defenseur,3,"0,10 ",2018
-85,25,Alisson,AS Rome,Bresil,Gardien de but,2,"0,07 ",2018
-86,25,Mario Mandzukic,Juventus FC,Croatie,Attaquant,2,"0,07 ",2018
-87,25,Jan Oblak,Atletico de Madrid,Slovenie,Gardien de but,2,"0,07 ",2018
-88,28,Diego Godin,Atletico de Madrid,Uruguay,Defenseur,1,"0,03 ",2018
-89,29,Isco,Real Madrid,Espagne,Milieu de terrain,0,0 ,2018
-90,29,Hugo Lloris,Tottenham Hotspur,France,Gardien de but,0,0 ,2018
+Primary_Key,Rang,Nom,Club,Selection,Poste,Points,Confederation,Pourcentage_vote,Type,Year
+61,1,Luka Modric,Real Madrid,Croatie,Milieu de terrain,753,UEFA,"26,14 ",1,2018
+62,2,Cristiano Ronaldo,Real Madrid,Portugal,Attaquant,476,UEFA,"16,52 ",1,2018
+63,3,Antoine Griezmann,Atletico de Madrid,France,Attaquant,414,UEFA,"14,37 ",1,2018
+64,4,Kylian Mbappe,Paris Saint-Germain,France,Attaquant,347,UEFA,"12,04 ",1,2018
+65,5,Lionel Messi,FC Barcelone,Argentine,Attaquant,280,UEFA,"9,72 ",1,2018
+66,6,Mohamed Salah,Liverpool FC,Egypte,Attaquant,188,UEFA,"6,53 ",1,2018
+67,7,Raphael Varane,Real Madrid,France,Defenseur,121,UEFA,"4,20 ",1,2018
+68,8,Eden Hazard,Chelsea FC,Belgique,Milieu de terrain Attaquant,119,UEFA,"4,13 ",1,2018
+69,9,Kevin De Bruyne,Manchester City,Belgique,Milieu de terrain,29,UEFA,"1,01 ",1,2018
+70,10,Harry Kane,Tottenham Hotspur,Angleterre,Attaquant,25,UEFA,"0,87 ",1,2018
+71,11,N'Golo Kante,Chelsea FC,France,Milieu de terrain,24,UEFA,"0,83 ",1,2018
+72,12,Neymar,Paris Saint-Germain,Bresil,Attaquant,19,UEFA,"0,66 ",1,2018
+73,13,Luis Suarez,FC Barcelone,Uruguay,Attaquant,17,UEFA,"0,59 ",1,2018
+74,14,Thibaut Courtois,Chelsea FC,Belgique,Gardien de but,12,UEFA,"0,42 ",1,2018
+75,15,Paul Pogba,Manchester United,France,Milieu de terrain,9,UEFA,"0,31 ",1,2018
+76,16,Sergio Aguero,Manchester City,Argentine,Attaquant,7,UEFA,"0,24 ",1,2018
+77,17,Gareth Bale,Real Madrid,Pays de Galles,Attaquant,6,UEFA,"0,21 ",1,2018
+78,17,Karim Benzema,Real Madrid,France,Attaquant,6,UEFA,"0,21 ",1,2018
+79,19,Roberto Firmino,Liverpool FC,Bresil,Attaquant,4,UEFA,"0,14 ",1,2018
+80,19,Ivan Rakitic,FC Barcelone,Croatie,Milieu de terrain,4,UEFA,"0,14 ",1,2018
+81,19,Sergio Ramos,Real Madrid,Espagne,Defenseur,4,UEFA,"0,14 ",1,2018
+82,22,Edinson Cavani,Paris Saint-Germain,Uruguay,Attaquant,3,UEFA,"0,10 ",1,2018
+83,22,Sadio Mane,Liverpool FC,Senegal,Attaquant,3,UEFA,"0,10",1,2018
+84,22,Marcelo,Real Madrid,Bresil,Defenseur,3,UEFA,"0,10 ",1,2018
+85,25,Alisson,AS Rome,Bresil,Gardien de but,2,UEFA,"0,07 ",1,2018
+86,25,Mario Mandzukic,Juventus FC,Croatie,Attaquant,2,UEFA,"0,07 ",1,2018
+87,25,Jan Oblak,Atletico de Madrid,Slovenie,Gardien de but,2,UEFA,"0,07 ",1,2018
+88,28,Diego Godin,Atletico de Madrid,Uruguay,Defenseur,1,UEFA,"0,03 ",1,2018
+89,29,Isco,Real Madrid,Espagne,Milieu de terrain,0,UEFA,0 ,1,2018
+90,29,Hugo Lloris,Tottenham Hotspur,France,Gardien de but,0,UEFA,0 ,1,2018

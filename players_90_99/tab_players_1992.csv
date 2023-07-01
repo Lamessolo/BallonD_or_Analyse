@@ -1,22 +1,22 @@
-Primary_Key,Rank,Nom,Club,Selection,Poste,Points,year
-54,1,Marco van Basten,Milan AC,Netherlands,Attaquant,98.0,1992
-55,2,Hristo Stoichkov,FC Barcelone,Bulgaria,Attaquant,80.0,1992
-56,3,Dennis Bergkamp,Ajax,Netherlands,Attaquant,53.0,1992
-57,4,Thomas Hassler,Roma,Germany,Attaquant,42.0,1992
-58,5,Peter Schmeichel,Manchester United,Denmark,Attaquant,41.0,1992
-59,6,Brian Laudrup,Fiorentina,Denmark,Attaquant,32.0,1992
-60,7,Michael Laudrup,FC Barcelone,Denmark,Attaquant,22.0,1992
-61,8,Ronald Koeman,FC Barcelone,Netherlands,Attaquant,14.0,1992
-62,9,Stephane Chapuisat,Borussia Dortmund,Switzerland,Attaquant,10.0,1992
-63,10,Frank Rijkaard,Milan AC,Netherlands,Attaquant,8.0,1992
-64,10,Enzo Scifo,Torino,Belgium,Attaquant,8.0,1992
-65,12,Flemming Povlsen,Borussia Dortmund,Denmark,Attaquant,6.0,1992
-66,13,Henrik Larsen,Pisa,Denmark,Attaquant,4.0,1992
-67,14,John Jensen,Arsenal,Denmark,Attaquant,3.0,1992
-68,14,Paolo Maldini,Milan AC,Italy,Attaquant,3.0,1992
-69,16,Henrik Andersen,FC Cologne,Denmark,Attaquant,2.0,1992
-70,16,David Platt,Juventus FC,England,Attaquant,2.0,1992
-71,16,Tomas Brolin,Parma,Sweden,Attaquant,2.0,1992
-72,16,Jean-Pierre Papin,Milan AC,France,Attaquant,2.0,1992
-73,20,Franco Baresi,Milan AC,Italy,Attaquant,1.0,1992
-74,20,Rune Bratseth,Werder Bremen,Norway,Attaquant,1.0,1992
+Primary_Key,Rank,Nom,Club,Selection,Poste,Points,Year,Confederation,Type
+54,1,Marco van Basten,Milan AC,Pays-Bas,Attaquant,98.0,1992,UEFA,1
+55,2,Hristo Stoichkov,FC Barcelone,Bulgarie,Attaquant,80.0,1992,UEFA,1
+56,3,Dennis Bergkamp,Ajax,Pays-Bas,Attaquant,53.0,1992,UEFA,1
+57,4,Thomas Hassler,Roma,Allemagne,Attaquant,42.0,1992,UEFA,1
+58,5,Peter Schmeichel,Manchester United,Danemark,Attaquant,41.0,1992,UEFA,1
+59,6,Brian Laudrup,Fiorentina,Danemark,Attaquant,32.0,1992,UEFA,1
+60,7,Michael Laudrup,FC Barcelone,Danemark,Attaquant,22.0,1992,UEFA,1
+61,8,Ronald Koeman,FC Barcelone,Pays-Bas,Attaquant,14.0,1992,UEFA,1
+62,9,Stephane Chapuisat,Borussia Dortmund,Suisse,Attaquant,10.0,1992,UEFA,1
+63,10,Frank Rijkaard,Milan AC,Pays-Bas,Attaquant,8.0,1992,UEFA,1
+64,10,Enzo Scifo,Torino,Belgique,Attaquant,8.0,1992,UEFA,1
+65,12,Flemming Povlsen,Borussia Dortmund,Danemark,Attaquant,6.0,1992,UEFA,1
+66,13,Henrik Larsen,Pisa,Danemark,Attaquant,4.0,1992,UEFA,1
+67,14,John Jensen,Arsenal,Danemark,Attaquant,3.0,1992,UEFA,1
+68,14,Paolo Maldini,Milan AC,Italie,Attaquant,3.0,1992,UEFA,1
+69,16,Henrik Andersen,FC Cologne,Danemark,Attaquant,2.0,1992,UEFA,1
+70,16,David Platt,Juventus FC,Anglettere,Attaquant,2.0,1992,UEFA,1
+71,16,Tomas Brolin,Parma,Suede,Attaquant,2.0,1992,UEFA,1
+72,16,Jean-Pierre Papin,Milan AC,France,Attaquant,2.0,1992,UEFA,1
+73,20,Franco Baresi,Milan AC,Italie,Attaquant,1.0,1992,UEFA,1
+74,20,Rune Bratseth,Werder Bremen,Norvege,Attaquant,1.0,1992,UEFA,1

@@ -1,106 +1,106 @@
-Primary_Key,Rank,Nom,Club,Selection,Poste,Points,year
-1,1,Lothar Matthaus,Inter Milan,Germany,Attaquant,137.0,1990
-2,2,Salvatore Schillaci,Juventus FC,Italy,Attaquant,84.0,1990
-3,3,Andreas Brehme,Inter Milan,Germany,Attaquant,68.0,1990
-4,4,Paul Gascoigne,Tottenham Hotspur,England,Attaquant,43.0,1990
-5,5,Franco Baresi,Milan AC,Italy,Attaquant,37.0,1990
-6,6,Enzo Scifo,Auxerre,Belgium,Attaquant,12.0,1990
-7,6,Jurgen Klinsmann,Inter Milan,Germany,Attaquant,12.0,1990
-8,8,Roberto Baggio,Fiorentina  Juventus FC,Italy,Attaquant,8.0,1990
-9,9,Frank Rijkaard,Milan AC,Netherlands,Attaquant,7.0,1990
-10,10,Guido Buchwald,VfB Stuttgart,Germany,Attaquant,6.0,1990
-11,11,Jean-Pierre Papin,Marseille,France,Attaquant,3.0,1990
-12,12,Rafael Martin Vazquez,Real Madrid  Torino,Spain,Attaquant,2.0,1990
-13,12,Paul McGrath,Aston Villa,Republic of Ireland,Attaquant,2.0,1990
-14,12,Robert Prosinecki,Red Star Belgrade,Yugoslavia,Attaquant,2.0,1990
-15,12,Des Walker,Nottingham Forest,England,Attaquant,2.0,1990
-16,12,Walter Zenga,Inter Milan,Italy,Attaquant,2.0,1990
-17,12,Dragan Stojkovic,Red Star Belgrade  Marseille,Yugoslavia,Attaquant,2.0,1990
-18,18,John Barnes,Liverpool,England,Attaquant,1.0,1990
-19,18,Michael Laudrup,Barcelona,Denmark,Attaquant,1.0,1990
-20,18,Gary Lineker,Tottenham Hotspur,England,Attaquant,1.0,1990
-21,18,David Platt,Aston Villa,England,Attaquant,1.0,1990
-22,18,Rudi Voller,Roma,Germany,Attaquant,1.0,1990
-23,18,Chris Waddle,Marseille,England,Attaquant,1.0,1990
-24,1,Jean-Pierre Papin,Marseille,France,Attaquant,141.0,1991
-25,2,Dejan Savicevic,Red Star Belgrade,Yugoslavia,Attaquant,42.0,1991
-26,2,Darko Pancev,Red Star Belgrade,Yugoslavia,Attaquant,42.0,1991
-27,2,Lothar Matthaus,Inter Milan,Germany,Attaquant,42.0,1991
-28,5,Robert Prosinecki,Red Star Belgrade  Real Madrid,Yugoslavia,Attaquant,34.0,1991
-29,6,Gary Lineker,Tottenham Hotspur,England,Attaquant,33.0,1991
-30,7,Gianluca Vialli,Sampdoria,Italy,Attaquant,18.0,1991
-31,8,Miodrag Belodedici,Red Star Belgrade,Romania,Attaquant,15.0,1991
-32,9,Mark Hughes,Manchester United,Wales,Attaquant,12.0,1991
-33,10,Chris Waddle,Marseille,England,Attaquant,11.0,1991
-34,11,Michael Laudrup,Barcelona,Denmark,Attaquant,7.0,1991
-35,12,Rudi Voller,Roma,Germany,Attaquant,5.0,1991
-36,13,Txiki Begiristain,Barcelona,Spain,Attaquant,3.0,1991
-37,13,Stephane Chapuisat,Borussia Dortmund,Switzerland,Attaquant,3.0,1991
-38,13,Bruno Martini,Auxerre,France,Attaquant,3.0,1991
-39,13,Paul McGrath,Aston Villa,Republic of Ireland,Attaquant,3.0,1991
-40,13,Dean Saunders,Derby County  Liverpool,Wales,Attaquant,3.0,1991
-41,13,Hristo Stoichkov,Barcelona,Bulgaria,Attaquant,3.0,1991
-42,19,Roberto Mancini,Sampdoria,Italy,Attaquant,2.0,1991
-43,19,Marco van Basten,Milan AC,Netherlands,Attaquant,2.0,1991
-44,21,Guido Buchwald,VfB Stuttgart,Germany,Attaquant,1.0,1991
-45,21,Thomas Doll,Lazio,Germany,Attaquant,1.0,1991
-46,21,Stefan Effenberg,Bayern Munich,Germany,Attaquant,1.0,1991
-47,21,Ruud Gullit,Milan AC,Netherlands,Attaquant,1.0,1991
-48,21,Gheorghe Hagi,Real Madrid,Romania,Attaquant,1.0,1991
-49,21,Alexei Mikhailichenko,Rangers,Soviet Union,Attaquant,1.0,1991
-50,21,Gary Pallister,Manchester United,England,Attaquant,1.0,1991
-51,21,Dimitris Saravakos,Panathinaikos,Greece,Attaquant,1.0,1991
-52,21,Gianluca Pagliuca,Sampdoria,Italy,Attaquant,1.0,1991
-53,21,Guy Hellers,Standard Liege,Luxembourg,Attaquant,1.0,1991
-54,21,Laurent Blanc,Napoli,France,Attaquant,1.0,1991
-54,1,Marco van Basten,Milan AC,Netherlands,Attaquant,98.0,1992
-55,2,Hristo Stoichkov,FC Barcelone,Bulgaria,Attaquant,80.0,1992
-56,3,Dennis Bergkamp,Ajax,Netherlands,Attaquant,53.0,1992
-57,4,Thomas Hassler,Roma,Germany,Attaquant,42.0,1992
-58,5,Peter Schmeichel,Manchester United,Denmark,Attaquant,41.0,1992
-59,6,Brian Laudrup,Fiorentina,Denmark,Attaquant,32.0,1992
-60,7,Michael Laudrup,FC Barcelone,Denmark,Attaquant,22.0,1992
-61,8,Ronald Koeman,FC Barcelone,Netherlands,Attaquant,14.0,1992
-62,9,Stephane Chapuisat,Borussia Dortmund,Switzerland,Attaquant,10.0,1992
-63,10,Frank Rijkaard,Milan AC,Netherlands,Attaquant,8.0,1992
-64,10,Enzo Scifo,Torino,Belgium,Attaquant,8.0,1992
-65,12,Flemming Povlsen,Borussia Dortmund,Denmark,Attaquant,6.0,1992
-66,13,Henrik Larsen,Pisa,Denmark,Attaquant,4.0,1992
-67,14,John Jensen,Arsenal,Denmark,Attaquant,3.0,1992
-68,14,Paolo Maldini,Milan AC,Italy,Attaquant,3.0,1992
-69,16,Henrik Andersen,FC Cologne,Denmark,Attaquant,2.0,1992
-70,16,David Platt,Juventus FC,England,Attaquant,2.0,1992
-71,16,Tomas Brolin,Parma,Sweden,Attaquant,2.0,1992
-72,16,Jean-Pierre Papin,Milan AC,France,Attaquant,2.0,1992
-73,20,Franco Baresi,Milan AC,Italy,Attaquant,1.0,1992
-74,20,Rune Bratseth,Werder Bremen,Norway,Attaquant,1.0,1992
-75,1,Roberto Baggio,Juventus FC,Italie,Attaquant,192.0,1993
-76,2,Dennis Bergkamp,Inter Milan,Pays-Bas,Attaquant,83.0,1993
-77,3,Eric Cantona,Manchester United,France,Attaquant,34.0,1993
-78,4,Alen Boksic,Lazio,Croatie,Attaquant,29.0,1993
-79,5,Michael Laudrup,FC Barcelone,Denmark,Attaquant,27.0,1993
-80,6,Franco Baresi,Milan AC,Italie,Attaquant,24.0,1993
-81,7,Paolo Maldini,Milan AC,Italie,Attaquant,19.0,1993
-82,8,Emil Kostadinov,Porto,Bulgarie,Attaquant,11.0,1993
-83,9,Stephane Chapuisat,Borussia Dortmund,Suisse,Attaquant,9.0,1993
-84,9,Ryan Giggs,Manchester United,Pays de Galles,Attaquant,9.0,1993
-85,11,Andreas Moller,Juventus FC,Allemagne,Attaquant,7.0,1993
-86,12,Ruud Gullit,Sampdoria,Pays-Bas,Attaquant,6.0,1993
-87,12,Peter Schmeichel,Manchester United,Denmark,Attaquant,6.0,1993
-88,12,Hristo Stoichkov,FC Barcelone,Bulgarie,Attaquant,6.0,1993
-89,15,Basile Boli,Marseille,France,Attaquant,5.0,1993
-90,15,Rune Bratseth,Werder Bremen,Norvege,Attaquant,5.0,1993
-91,17,Enzo Scifo,Monaco,Belgique,Attaquant,4.0,1993
-92,18,Andreas Herzog,Werder Bremen,Australie,Attaquant,3.0,1993
-93,18,Ronald Koeman,FC Barcelone,Pays-Bas,Attaquant,3.0,1993
-94,18,Jari Litmanen,Ajax,Finland,Attaquant,3.0,1993
-95,21,Dino Baggio,Juventus FC,Italie,Attaquant,2.0,1993
-96,21,Sergei Kiriakov,Karlsruher SC,Russie,Attaquant,2.0,1993
-97,21,David Platt,Sampdoria,England,Attaquant,2.0,1993
-98,21,Franck Sauzee,Atalanta,France,Attaquant,2.0,1993
-99,21,Giuseppe Signori,Lazio,Italie,Attaquant,2.0,1993
-100,26,Tomas Brolin,Parma,Suede,Attaquant,1.0,1993
-101,26,Martin Dahlin,Borussia Mönchengladbach,Suede,Attaquant,1.0,1993
-102,26,Georges Grün,Parma,Belgique,Attaquant,1.0,1993
-103,26,Stelios Manolas,AEK Athens,Grece,Attaquant,1.0,1993
-104,26,Paul McGrath,Aston Villa,Republic of Ireland,Attaquant,1.0,1993
+Primary_Key,Rank,Nom,Club,Selection,Poste,Points,Year,Confederation,Type
+1,1,Lothar Matthaus,Inter Milan,Germany,Attaquant,137.0,1990,UEFA,1
+2,2,Salvatore Schillaci,Juventus FC,Italy,Attaquant,84.0,1990,UEFA,1
+3,3,Andreas Brehme,Inter Milan,Germany,Attaquant,68.0,1990,UEFA,1
+4,4,Paul Gascoigne,Tottenham Hotspur,England,Attaquant,43.0,1990,UEFA,1
+5,5,Franco Baresi,Milan AC,Italy,Attaquant,37.0,1990,UEFA,1
+6,6,Enzo Scifo,Auxerre,Belgium,Attaquant,12.0,1990,UEFA,1
+7,6,Jurgen Klinsmann,Inter Milan,Germany,Attaquant,12.0,1990,UEFA,1
+8,8,Roberto Baggio,Fiorentina  Juventus FC,Italy,Attaquant,8.0,1990,UEFA,1
+9,9,Frank Rijkaard,Milan AC,Netherlands,Attaquant,7.0,1990,UEFA,1
+10,10,Guido Buchwald,VfB Stuttgart,Germany,Attaquant,6.0,1990,UEFA,1
+11,11,Jean-Pierre Papin,Marseille,France,Attaquant,3.0,1990,UEFA,1
+12,12,Rafael Martin Vazquez,Real Madrid  Torino,Spain,Attaquant,2.0,1990,UEFA,1
+13,12,Paul McGrath,Aston Villa,Republic of Ireland,Attaquant,2.0,1990,UEFA,1
+14,12,Robert Prosinecki,Red Star Belgrade,Yugoslavia,Attaquant,2.0,1990,UEFA,1
+15,12,Des Walker,Nottingham Forest,England,Attaquant,2.0,1990,UEFA,1
+16,12,Walter Zenga,Inter Milan,Italy,Attaquant,2.0,1990,UEFA,1
+17,12,Dragan Stojkovic,Red Star Belgrade  Marseille,Yugoslavia,Attaquant,2.0,1990,UEFA,1
+18,18,John Barnes,Liverpool,England,Attaquant,1.0,1990,UEFA,1
+19,18,Michael Laudrup,Barcelona,Denmark,Attaquant,1.0,1990,UEFA,1
+20,18,Gary Lineker,Tottenham Hotspur,England,Attaquant,1.0,1990,UEFA,1
+21,18,David Platt,Aston Villa,England,Attaquant,1.0,1990,UEFA,1
+22,18,Rudi Voller,Roma,Germany,Attaquant,1.0,1990,UEFA,1
+23,18,Chris Waddle,Marseille,England,Attaquant,1.0,1990,UEFA,1
+24,1,Jean-Pierre Papin,Marseille,France,Attaquant,141.0,1991,UEFA,1
+25,2,Dejan Savicevic,Red Star Belgrade,Yougoslavie,Attaquant,42.0,1991,UEFA,1
+26,2,Darko Pancev,Red Star Belgrade,Yougoslavie,Attaquant,42.0,1991,UEFA,1
+27,2,Lothar Matthaus,Inter Milan,Allemagne,Attaquant,42.0,1991,UEFA,1
+28,5,Robert Prosinecki,Red Star Belgrade  Real Madrid,Yougoslavie,Attaquant,34.0,1991,UEFA,1
+29,6,Gary Lineker,Tottenham Hotspur,Anglettere,Attaquant,33.0,1991,UEFA,1
+30,7,Gianluca Vialli,Sampdoria,Italie,Attaquant,18.0,1991,UEFA,1
+31,8,Miodrag Belodedici,Red Star Belgrade,Roumanie,Attaquant,15.0,1991,UEFA,1
+32,9,Mark Hughes,Manchester United,Pays de Galles,Attaquant,12.0,1991,UEFA,1
+33,10,Chris Waddle,Marseille,Anglettere,Attaquant,11.0,1991,UEFA,1
+34,11,Michael Laudrup,Barcelona,Danemark,Attaquant,7.0,1991,UEFA,1
+35,12,Rudi Voller,Roma,Allemagne,Attaquant,5.0,1991,UEFA,1
+36,13,Txiki Begiristain,Barcelona,Espagne,Attaquant,3.0,1991,UEFA,1
+37,13,Stephane Chapuisat,Borussia Dortmund,Suisse,Attaquant,3.0,1991,UEFA,1
+38,13,Bruno Martini,Auxerre,France,Attaquant,3.0,1991,UEFA,1
+39,13,Paul McGrath,Aston Villa,Irelande,Attaquant,3.0,1991,UEFA,1
+40,13,Dean Saunders,Derby County  Liverpool,Pays de Galles,Attaquant,3.0,1991,UEFA,1
+41,13,Hristo Stoichkov,Barcelona,Bulgarie,Attaquant,3.0,1991,UEFA,1
+42,19,Roberto Mancini,Sampdoria,Italie,Attaquant,2.0,1991,UEFA,1
+43,19,Marco van Basten,Milan AC,Pays-Bas,Attaquant,2.0,1991,UEFA,1
+44,21,Guido Buchwald,VfB Stuttgart,Allemagne,Attaquant,1.0,1991,UEFA,1
+45,21,Thomas Doll,Lazio,Allemagne,Attaquant,1.0,1991,UEFA,1
+46,21,Stefan Effenberg,Bayern Munich,Allemagne,Attaquant,1.0,1991,UEFA,1
+47,21,Ruud Gullit,Milan AC,Pays-Bas,Attaquant,1.0,1991,UEFA,1
+48,21,Gheorghe Hagi,Real Madrid,Roumanie,Attaquant,1.0,1991,UEFA,1
+49,21,Alexei Mikhailichenko,Rangers,Soviet Union,Attaquant,1.0,1991,UEFA,1
+50,21,Gary Pallister,Manchester United,Anglettere,Attaquant,1.0,1991,UEFA,1
+51,21,Dimitris Saravakos,Panathinaikos,Grece,Attaquant,1.0,1991,UEFA,1
+52,21,Gianluca Pagliuca,Sampdoria,Italie,Attaquant,1.0,1991,UEFA,1
+53,21,Guy Hellers,Standard Liege,Luxembourg,Attaquant,1.0,1991,UEFA,1
+54,21,Laurent Blanc,Napoli,France,Attaquant,1.0,1991,UEFA,1
+54,1,Marco van Basten,Milan AC,Pays-Bas,Attaquant,98.0,1992,UEFA,1
+55,2,Hristo Stoichkov,FC Barcelone,Bulgarie,Attaquant,80.0,1992,UEFA,1
+56,3,Dennis Bergkamp,Ajax,Pays-Bas,Attaquant,53.0,1992,UEFA,1
+57,4,Thomas Hassler,Roma,Allemagne,Attaquant,42.0,1992,UEFA,1
+58,5,Peter Schmeichel,Manchester United,Danemark,Attaquant,41.0,1992,UEFA,1
+59,6,Brian Laudrup,Fiorentina,Danemark,Attaquant,32.0,1992,UEFA,1
+60,7,Michael Laudrup,FC Barcelone,Danemark,Attaquant,22.0,1992,UEFA,1
+61,8,Ronald Koeman,FC Barcelone,Pays-Bas,Attaquant,14.0,1992,UEFA,1
+62,9,Stephane Chapuisat,Borussia Dortmund,Suisse,Attaquant,10.0,1992,UEFA,1
+63,10,Frank Rijkaard,Milan AC,Pays-Bas,Attaquant,8.0,1992,UEFA,1
+64,10,Enzo Scifo,Torino,Belgique,Attaquant,8.0,1992,UEFA,1
+65,12,Flemming Povlsen,Borussia Dortmund,Danemark,Attaquant,6.0,1992,UEFA,1
+66,13,Henrik Larsen,Pisa,Danemark,Attaquant,4.0,1992,UEFA,1
+67,14,John Jensen,Arsenal,Danemark,Attaquant,3.0,1992,UEFA,1
+68,14,Paolo Maldini,Milan AC,Italie,Attaquant,3.0,1992,UEFA,1
+69,16,Henrik Andersen,FC Cologne,Danemark,Attaquant,2.0,1992,UEFA,1
+70,16,David Platt,Juventus FC,Anglettere,Attaquant,2.0,1992,UEFA,1
+71,16,Tomas Brolin,Parma,Suede,Attaquant,2.0,1992,UEFA,1
+72,16,Jean-Pierre Papin,Milan AC,France,Attaquant,2.0,1992,UEFA,1
+73,20,Franco Baresi,Milan AC,Italie,Attaquant,1.0,1992,UEFA,1
+74,20,Rune Bratseth,Werder Bremen,Norvege,Attaquant,1.0,1992,UEFA,1
+75,1,Roberto Baggio,Juventus FC,Italie,Attaquant,192.0,1993,UEFA,1
+76,2,Dennis Bergkamp,Inter Milan,Pays-Bas,Attaquant,83.0,1993,UEFA,1
+77,3,Eric Cantona,Manchester United,France,Attaquant,34.0,1993,UEFA,1
+78,4,Alen Boksic,Lazio,Croatie,Attaquant,29.0,1993,UEFA,1
+79,5,Michael Laudrup,FC Barcelone,Danemark,Attaquant,27.0,1993,UEFA,1
+80,6,Franco Baresi,Milan AC,Italie,Attaquant,24.0,1993,UEFA,1
+81,7,Paolo Maldini,Milan AC,Italie,Attaquant,19.0,1993,UEFA,1
+82,8,Emil Kostadinov,Porto,Bulgarie,Attaquant,11.0,1993,UEFA,1
+83,9,Stephane Chapuisat,Borussia Dortmund,Suisse,Attaquant,9.0,1993,UEFA,1
+84,9,Ryan Giggs,Manchester United,Pays de Galles,Attaquant,9.0,1993,UEFA,1
+85,11,Andreas Moller,Juventus FC,Allemagne,Attaquant,7.0,1993,UEFA,1
+86,12,Ruud Gullit,Sampdoria,Pays-Bas,Attaquant,6.0,1993,UEFA,1
+87,12,Peter Schmeichel,Manchester United,Danemark,Attaquant,6.0,1993,UEFA,1
+88,12,Hristo Stoichkov,FC Barcelone,Bulgarie,Attaquant,6.0,1993,UEFA,1
+89,15,Basile Boli,Marseille,France,Attaquant,5.0,1993,UEFA,1
+90,15,Rune Bratseth,Werder Bremen,Norvege,Attaquant,5.0,1993,UEFA,1
+91,17,Enzo Scifo,Monaco,Belgique,Attaquant,4.0,1993,UEFA,1
+92,18,Andreas Herzog,Werder Bremen,Australie,Attaquant,3.0,1993,UEFA,1
+93,18,Ronald Koeman,FC Barcelone,Pays-Bas,Attaquant,3.0,1993,UEFA,1
+94,18,Jari Litmanen,Ajax,Finland,Attaquant,3.0,1993,UEFA,1
+95,21,Dino Baggio,Juventus FC,Italie,Attaquant,2.0,1993,UEFA,1
+96,21,Sergei Kiriakov,Karlsruher SC,Russie,Attaquant,2.0,1993,UEFA,1
+97,21,David Platt,Sampdoria,Anglettere,Attaquant,2.0,1993,UEFA,1
+98,21,Franck Sauzee,Atalanta,France,Attaquant,2.0,1993,UEFA,1
+99,21,Giuseppe Signori,Lazio,Italie,Attaquant,2.0,1993,UEFA,1
+100,26,Tomas Brolin,Parma,Suede,Attaquant,1.0,1993,UEFA,1
+101,26,Martin Dahlin,Borussia Mönchengladbach,Suede,Attaquant,1.0,1993,UEFA,1
+102,26,Georges Grün,Parma,Belgique,Attaquant,1.0,1993,UEFA,1
+103,26,Stelios Manolas,AEK Athens,Grece,Attaquant,1.0,1993,UEFA,1
+104,26,Paul McGrath,Aston Villa,Irelande,Attaquant,1.0,1993,UEFA,1

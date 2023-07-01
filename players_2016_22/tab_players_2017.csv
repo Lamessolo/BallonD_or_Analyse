@@ -1,31 +1,31 @@
-Primary_Key,Rang,Nom,Club,Poste,Selection,Points,pourcentage_vote,year
-31,1,Cristiano Ronaldo,Real Madrid,Attaquant,Portugal,946,"33,76 ",2017
-32,2,Lionel Messi,FC Barcelone,Attaquant,Argentine,670,"23,91 ",2017
-33,3,Neymar,FC Barcelone,Attaquant,Bresil,361,"12,88 ",2017
-34,4,Gianluigi Buffon,Juventus FC,Attaquant,Italie,221,"7,89 ",2017
-35,5,Luka Modric,Real Madrid,Attaquant,Croatie,84,"3,00 ",2017
-36,6,Sergio Ramos,Real Madrid,Attaquant,Espagne,71,"2,53 ",2017
-37,7,Kylian Mbappe,AS Monaco,Attaquant,France,48,"1,71 ",2017
-38,8,N'Golo Kante,Chelsea FC,Attaquant,France,47,"1,68 ",2017
-39,9,Robert Lewandowski,Bayern Munich,Attaquant,Pologne,45,"1,61 ",2017
-40,10,Harry Kane,Tottenham Hotspur,Attaquant,Angleterre,36,"1,28 ",2017
-41,11,Edinson Cavani,Paris Saint-Germain,Attaquant,Uruguay,32,"1,14 ",2017
-42,12,Isco,Real Madrid,Attaquant,Espagne,28,"1,00 ",2017
-43,13,Luis Suarez,FC Barcelone,Attaquant,Uruguay,27,"0,96 ",2017
-44,14,Kevin De Bruyne,Manchester City,Attaquant,Belgique,25,"0,89 ",2017
-45,15,Paulo Dybala,Juventus FC,Attaquant,Argentine,23,"0,82 ",2017
-46,16,Marcelo,Real Madrid,Attaquant,Bresil,21,"0,75 ",2017
-47,17,Toni Kroos,Real Madrid,Attaquant,Allemagne,20,"0,71 ",2017
-48,18,Antoine Griezmann,Atletico Madrid,Attaquant,France,17,"0,61 ",2017
-49,19,Eden Hazard,Chelsea FC,Attaquant,Belgique,16,"0,57 ",2017
-50,20,David de Gea,Manchester United,Attaquant,Espagne,15,"0,54 ",2017
-51,21,Pierre-Emerick Aubameyang,Borussia Dortmund,Attaquant,Gabon,14,"0,50 ",2017
-52,21,Leonardo Bonucci,Juventus FC,Attaquant,Italie,14,"0,50 ",2017
-53,23,Sadio Mane,Liverpool FC,Attaquant,Senegal,10,"0,36 ",2017
-54,24,Radamel Falcao,AS Monaco,Attaquant,Colombie,9,"0,32 ",2017
-55,25,Karim Benzema,Real Madrid,Attaquant,France,7,"0,25 ",2017
-56,26,Jan Oblak,Atletico Madrid,Attaquant,Slovenie,4,"0,14 ",2017
-57,27,Mats Hummels,Bayern Munich,Attaquant,Allemagne,3,"0,11 ",2017
-58,28,Edin Dzeko,AS Roma,Attaquant,Bosnie-Herzegovine,2,"0,07 ",2017
-59,29,Philippe Coutinho,Liverpool FC,Attaquant,Bresil,0,0 ,2017
-60,29,Dries Mertens,SSC Naples,Attaquant,Belgique,0,0 ,2017
+Primary_Key,Rang,Nom,Club,Poste,Selection,Points,Pourcentage_vote,Confederation,Type,Year
+31,1,Cristiano Ronaldo,Real Madrid,Attaquant,Portugal,946,"33,76 ",UEFA,1,2017
+32,2,Lionel Messi,FC Barcelone,Attaquant,Argentine,670,"23,91 ",UEFA,1,2017
+33,3,Neymar,FC Barcelone,Attaquant,Bresil,361,"12,88 ",UEFA,1,2017
+34,4,Gianluigi Buffon,Juventus FC,Attaquant,Italie,221,"7,89 ",UEFA,1,2017
+35,5,Luka Modric,Real Madrid,Attaquant,Croatie,84,"3,00 ",UEFA,1,2017
+36,6,Sergio Ramos,Real Madrid,Attaquant,Espagne,71,"2,53 ",UEFA,1,2017
+37,7,Kylian Mbappe,AS Monaco,Attaquant,France,48,"1,71 ",UEFA,1,2017
+38,8,N'Golo Kante,Chelsea FC,Attaquant,France,47,"1,68 ",UEFA,1,2017
+39,9,Robert Lewandowski,Bayern Munich,Attaquant,Pologne,45,"1,61 ",UEFA,1,2017
+40,10,Harry Kane,Tottenham Hotspur,Attaquant,Angleterre,36,"1,28 ",UEFA,1,2017
+41,11,Edinson Cavani,Paris Saint-Germain,Attaquant,Uruguay,32,"1,14 ",UEFA,1,2017
+42,12,Isco,Real Madrid,Attaquant,Espagne,28,"1,00 ",UEFA,1,2017
+43,13,Luis Suarez,FC Barcelone,Attaquant,Uruguay,27,"0,96 ",UEFA,1,2017
+44,14,Kevin De Bruyne,Manchester City,Attaquant,Belgique,25,"0,89 ",UEFA,1,2017
+45,15,Paulo Dybala,Juventus FC,Attaquant,Argentine,23,"0,82 ",UEFA,1,2017
+46,16,Marcelo,Real Madrid,Attaquant,Bresil,21,"0,75 ",UEFA,1,2017
+47,17,Toni Kroos,Real Madrid,Attaquant,Allemagne,20,"0,71 ",UEFA,1,2017
+48,18,Antoine Griezmann,Atletico Madrid,Attaquant,France,17,"0,61 ",UEFA,1,2017
+49,19,Eden Hazard,Chelsea FC,Attaquant,Belgique,16,"0,57 ",UEFA,1,2017
+50,20,David de Gea,Manchester United,Attaquant,Espagne,15,"0,54 ",UEFA,1,2017
+51,21,Pierre-Emerick Aubameyang,Borussia Dortmund,Attaquant,Gabon,14,"0,50 ",UEFA,1,2017
+52,21,Leonardo Bonucci,Juventus FC,Attaquant,Italie,14,"0,50 ",UEFA,1,2017
+53,23,Sadio Mane,Liverpool FC,Attaquant,Senegal,10,"0,36 ",UEFA,1,2017
+54,24,Radamel Falcao,AS Monaco,Attaquant,Colombie,9,"0,32 ",UEFA,1,2017
+55,25,Karim Benzema,Real Madrid,Attaquant,France,7,"0,25 ",UEFA,1,2017
+56,26,Jan Oblak,Atletico Madrid,Attaquant,Slovenie,4,"0,14 ",UEFA,1,2017
+57,27,Mats Hummels,Bayern Munich,Attaquant,Allemagne,3,"0,11 ",UEFA,1,2017
+58,28,Edin Dzeko,AS Roma,Attaquant,Bosnie-Herzegovine,2,"0,07 ",UEFA,1,2017
+59,29,Philippe Coutinho,Liverpool FC,Attaquant,Bresil,0,0 ,UEFA,1,2017
+60,29,Dries Mertens,SSC Naples,Attaquant,Belgique,0,0 ,UEFA,1,2017
