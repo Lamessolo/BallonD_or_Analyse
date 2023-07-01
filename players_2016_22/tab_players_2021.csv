@@ -1,0 +1,31 @@
+Primary_Key,Rang,Nom,Club,Selection,Poste,Points,pourcentage_vote,year
+121,1,Lionel Messi,FC Barcelone,Argentine,Attaquant,613,"22,54 ",2021
+122,2,Robert Lewandowski,Bayern Munich,Pologne,Attaquant,580,"21,32 ",2021
+123,3,Jorginho,Chelsea FC,Italie,Milieu de terrain,460,"16,91 ",2021
+124,4,Karim Benzema,Real Madrid,France,Attaquant,239,"8,79 ",2021
+125,5,N'Golo Kante,Chelsea FC,France,Milieu de terrain,186,"6,84 ",2021
+126,6,Cristiano Ronaldo,Juventus FC,Portugal,Attaquant,178,"6,54 ",2021
+127,7,Mohamed Salah,Liverpool FC,Egypte,Attaquant,121,"4,45 ",2021
+128,8,Kevin De Bruyne,Manchester City,Belgique,Milieu de terrain,73,"2,68 ",2021
+129,9,Kylian Mbappe,Paris SG,France,Attaquant,58,"2,13 ",2021
+130,10,Gianluigi Donnarumma,AC Milan,Italie,Gardien de but,36,"1,32 ",2021
+131,11,Erling Haaland,Borussia Dortmund,Norvege,Attaquant,33,"1,21 ",2021
+132,12,Romelu Lukaku,Inter Milan,Belgique,Attaquant,26,"0,96 ",2021
+133,13,Giorgio Chiellini,Juventus FC,Italie,Defenseur,26,"0,96 ",2021
+134,14,Leonardo Bonucci,Juventus FC,Italie,Defenseur,18,"0,66 ",2021
+135,15,Raheem Sterling,Manchester City,Angleterre,Attaquant,10,"0,37 ",2021
+136,16,Neymar,Paris SG,Bresil,Attaquant,9,"0,33 ",2021
+137,17,Luis Suarez,Atletico de Madrid,Uruguay,Attaquant,8,"0,29 ",2021
+138,18,Simon Kjaer,AC Milan,Danemark,Defenseur,8,"0,29 ",2021
+139,19,Mason Mount,Chelsea FC,Angleterre,Milieu de terrain,7,"0,26 ",2021
+140,20,Riyad Mahrez,Manchester City,Algerie,Attaquant,7,"0,26 ",2021
+141,21,Bruno Fernandes,Manchester United,Portugal,Milieu de terrain,6,"0,22 ",2021
+142,21,Lautaro Martinez,Inter Milan,Argentine,Attaquant,6,"0,22 ",2021
+143,23,Harry Kane,Tottenham Hotspur,Angleterre,Attaquant,4,"0,15 ",2021
+144,24,Pedri,FC Barcelone,Espagne,Milieu de terrain,3,"0,11 ",2021
+145,25,Phil Foden,Manchester City,Angleterre,Milieu de terrain,2,"0,07 ",2021
+146,26,Nicolo Barella,Inter Milan,Italie,Milieu de terrain,1,"0,04 ",2021
+147,26,Ruben  Dias,Manchester City,Portugal,Defenseur,1,"0,04 ",2021
+148,26,Gerard Moreno,Villarreal CF,Espagne,Attaquant,1,"0,04 ",2021
+149,29,Cesar  Azpilicueta,Chelsea FC,Espagne,Defenseur,0,0 ,2021
+150,29,Luka Modric,Real Madrid,Croatie,Milieu de terrain,0,0 ,2021

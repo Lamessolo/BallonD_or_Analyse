@@ -1,0 +1,31 @@
+Primary_Key,Rang,Nom,Club,Selection,Poste,Points,pourcentage_vote,year
+91,1,Lionel Messi,FC Barcelone,Argentine,Attaquant,686,"24,36 ",2019
+92,2,Virgil van Dijk,Liverpool FC,Pays-Bas,Defenseur,679,"24,11 ",2019
+93,3,Cristiano Ronaldo,Juventus FC,Portugal,Attaquant,476,"16,90 ",2019
+94,4,Sadio Mane,Liverpool FC,Senegal,Attaquant,347,"12,32 ",2019
+95,5,Mohamed Salah,Liverpool FC,Egypte,Attaquant,178,"6,32 ",2019
+96,6,Kylian Mbappe,Paris Saint-Germain,France,Attaquant,89,"3,16 ",2019
+97,7,Alisson,Liverpool FC,Bresil,Gardien de but,67,"2,38 ",2019
+98,8,Robert Lewandowski,Bayern Munich,Pologne,Attaquant,44,"1,56 ",2019
+99,9,Bernardo Silva,Manchester City,Portugal,Milieu de terrain Attaquant,41,"1,46 ",2019
+100,10,Riyad Mahrez,Manchester City,Algerie,Attaquant,33,"1,17 ",2019
+101,11,Frenkie de Jong,Ajax Amsterdam,Pays-Bas,Milieu de terrain,31,"1,10 ",2019
+102,12,Raheem Sterling,Manchester City,Angleterre,Attaquant,30,"1,07 ",2019
+103,13,Eden Hazard,Chelsea FC,Belgique,Milieu de terrain Attaquant,25,"0,89 ",2019
+104,14,Kevin De Bruyne,Manchester City,Belgique,Milieu de terrain,14,"0,50 ",2019
+105,15,Matthijs de Ligt,Ajax Amsterdam,Pays-Bas,Defenseur,13,"0,46 ",2019
+106,16,Sergio Aguero,Manchester City,Argentine,Attaquant,12,"0,43 ",2019
+107,17,Roberto Firmino,Liverpool FC,Bresil,Attaquant,11,"0,39 ",2019
+108,18,Antoine Griezmann,Atletico de Madrid,France,Milieu de terrain Attaquant,9,"0,32 ",2019
+109,19,Trent Alexander-Arnold,Liverpool FC,Angleterre,Defenseur,8,"0,28 ",2019
+110,20,Pierre-Emerick Aubameyang,Arsenal FC,Gabon,Attaquant,5,"0,18 ",2019
+111,20,Dusan Tadic,Ajax Amsterdam,Serbie,Milieu de terrain Attaquant,5,"0,18 ",2019
+112,22,Son Heung-min,Tottenham Hotspur,Coree du Sud,Attaquant,4,"0,14 ",2019
+113,23,Hugo Lloris,Tottenham Hotspur,France,Gardien de but,3,"0,11 ",2019
+114,24,Kalidou Koulibaly,SSC Naples,Senegal,Defenseur,2,"0,07 ",2019
+115,24,Marc-Andre ter Stegen,FC Barcelone,Allemagne,Gardien de but,2,"0,07 ",2019
+116,26,Karim Benzema,Real Madrid,France,Attaquant,1,"0,04 ",2019
+117,26,Georginio Wijnaldum,Liverpool FC,Pays-Bas,Milieu de terrain,1,"0,04 ",2019
+118,28,Joao Felix,Benfica Lisbonne,Portugal,Milieu de terrain,0,0 ,2019
+119,28,Marquinhos,Paris Saint-Germain,Bresil,Defenseur Milieu de terrain,0,0 ,2019
+120,28,Donny van de Beek,Ajax Amsterdam,Pays-Bas,Milieu de terrain,0,0 ,2019
