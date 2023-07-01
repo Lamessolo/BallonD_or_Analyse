@@ -7,5 +7,6 @@
      Create csv of Json file for stock data
 
    
-3. Clean Data before Analyse
+2. Clean Data before Analyse
+3. Analyse with MySQL queries
            
