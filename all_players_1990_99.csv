@@ -104,3 +104,301 @@ Primary_Key,Rank,Nom,Club,Selection,Poste,Points,Year,Confederation,Type
 102,26,Georges Grün,Parma,Belgique,Attaquant,1.0,1993,UEFA,1
 103,26,Stelios Manolas,AEK Athens,Grece,Attaquant,1.0,1993,UEFA,1
 104,26,Paul McGrath,Aston Villa,Irelande,Attaquant,1.0,1993,UEFA,1
+105,1,Hristo Stoichkov,FC Barcelone,Bulgarie,Attaquant,210.0,1994,UEFA,1
+106,2,Roberto Baggio,Juventus FC,Italie,Attaquant,136.0,1994,UEFA,1
+107,3,Paolo Maldini,Milan AC,Italie,Attaquant,109.0,1994,UEFA,1
+108,4,Gheorghe Hagi,FC Barcelone,Romania,Attaquant,68.0,1994,UEFA,1
+109,4,Tomas Brolin,Parma,Suede,Attaquant,68.0,1994,UEFA,1
+110,6,Jurgen Klinsmann,Tottenham Hotspur,Allemagne,Attaquant,43.0,1994,UEFA,1
+111,7,Thomas Ravelli,IFK Göteborg,Suede,Attaquant,21.0,1994,UEFA,1
+112,8,Jari Litmanen,Ajax,Finland,Attaquant,12.0,1994,UEFA,1
+113,9,Marcel Desailly,Milan AC,France,Attaquant,8.0,1994,UEFA,1
+114,9,Dejan Savicevic,Milan AC,Yougoslavie,Attaquant,8.0,1994,UEFA,1
+115,11,Franco Baresi,Milan AC,Italie,Attaquant,7.0,1994,UEFA,1
+116,11,Michel Preud'homme,Benfica,Belgique,Attaquant,7.0,1994,UEFA,1
+117,13,Michael Laudrup,Real Madrid,Danemark,Attaquant,4.0,1994,UEFA,1
+118,13,Yordan Letchkov,Hamburger SV,Bulgarie,Attaquant,4.0,1994,UEFA,1
+119,13,Eric Cantona,Manchester United,France,Attaquant,4.0,1994,UEFA,1
+120,16,Krasimir Balakov,Sporting CP,Bulgarie,Attaquant,3.0,1994,UEFA,1
+121,16,José Luis Caminero,Atletico Madrid,Espagne,Attaquant,3.0,1994,UEFA,1
+122,16,Jean-Pierre Papin,Bayern Munich,France,Attaquant,3.0,1994,UEFA,1
+123,16,Giuseppe Signori,Lazio,Italie,Attaquant,3.0,1994,UEFA,1
+124,16,Lothar Matthaus,Bayern Munich,Allemagne,Attaquant,3.0,1994,UEFA,1
+125,21,Philippe Albert,Newcastle United,Belgique,Attaquant,2.0,1994,UEFA,1
+126,21,Otto Konrad,Austria Salzburg,Australie,Attaquant,2.0,1994,UEFA,1
+127,21,Ciriaco Sforza,Kaiserslautern,Suisse,Attaquant,2.0,1994,UEFA,1
+128,24,Kennet Andersson,Caen,Suede,Attaquant,1.0,1994,UEFA,1
+129,24,Zvonimir Boban,Milan AC,Croatie,Attaquant,1.0,1994,UEFA,1
+130,24,Martin Dahlin,Borussia Mönchengladbach,Suede,Attaquant,1.0,1994,UEFA,1
+131,24,Pep Guardiola,FC Barcelone,Espagne,Attaquant,1.0,1994,UEFA,1
+132,24,Andreas Moller,Borussia Dortmund,Allemagne,Attaquant,1.0,1994,UEFA,1
+133,1,George Weah,Paris Saint-Germain  Milan AC,Liberia,Attaquant,144.0,1995,UEFA,1
+134,2,Jurgen Klinsmann,Tottenham Hotspur F.C.  Bayern Munich,Allemagne,Attaquant,108.0,1995,UEFA,1
+135,3,Jari Litmanen,Ajax,Finland,Attaquant,67.0,1995,UEFA,1
+136,4,Alessandro Del Piero,Juventus FC,Italie,Attaquant,57.0,1995,UEFA,1
+137,5,Patrick Kluivert,Ajax,Pays-Bas,Attaquant,47.0,1995,UEFA,1
+138,6,Gianfranco Zola,Parma,Italie,Attaquant,41.0,1995,UEFA,1
+139,7,Paolo Maldini,Milan AC,Italie,Attaquant,36.0,1995,UEFA,1
+140,8,Marc Overmars,Ajax,Pays-Bas,Attaquant,33.0,1995,UEFA,1
+141,9,Matthias Sammer,Borussia Dortmund,Allemagne,Attaquant,18.0,1995,UEFA,1
+142,10,Michael Laudrup,Real Madrid,Danemark,Attaquant,17.0,1995,UEFA,1
+143,11,Marcel Desailly,Milan AC,France,Attaquant,16.0,1995,UEFA,1
+144,12,Frank Rijkaard,Ajax,Pays-Bas,Attaquant,15.0,1995,UEFA,1
+145,12,Fabrizio Ravanelli,Juventus FC,Italie,Attaquant,15.0,1995,UEFA,1
+146,14,Paulo Sousa,Juventus FC,Portugal,Attaquant,14.0,1995,UEFA,1
+147,14,Hristo Stoichkov,Parma,Bulgarie,Attaquant,14.0,1995,UEFA,1
+148,16,Dejan Savicevic,Milan AC,Yugoslavia,Attaquant,12.0,1995,UEFA,1
+149,17,Davor Suker,Sevilla,Croatie,Attaquant,10.0,1995,UEFA,1
+150,18,Fernando Hierro,Real Madrid,Espagne,Attaquant,9.0,1995,UEFA,1
+151,19,Gianluca Vialli,Juventus FC,Italie,Attaquant,8.0,1995,UEFA,1
+152,20,Gabriel Batistuta,Fiorentina,Argentine,Attaquant,7.0,1995,UEFA,1
+153,21,Franco Baresi,Milan AC,Italie,Attaquant,6.0,1995,UEFA,1
+154,21,Finidi George,Ajax,Nigeria,Attaquant,6.0,1995,UEFA,1
+155,23,Roberto Baggio,Juventus FC,Italie,Attaquant,5.0,1995,UEFA,1
+156,23,Anthony Yeboah,Leeds United,Ghana,Attaquant,5.0,1995,UEFA,1
+157,23,Zvonimir Boban,Milan AC,Croatie,Attaquant,5.0,1995,UEFA,1
+158,26,Ronaldo,PSV Eindhoven,Brazil,Attaquant,4.0,1995,UEFA,1
+159,27,Juan Esnáider,Real Zaragoza  Real Madrid,Argentine,Attaquant,3.0,1995,UEFA,1
+160,27,Ivan Zamorano,Real Madrid,Chile,Attaquant,3.0,1995,UEFA,1
+161,27,Andreas Moller,Borussia Dortmund,Allemagne,Attaquant,3.0,1995,UEFA,1
+162,30,Vitor Baia,Porto,Portugal,Attaquant,2.0,1995,UEFA,1
+163,30,Bebeto,Deportivo La Corogne,Brazil,Attaquant,2.0,1995,UEFA,1
+164,32,Alan Shearer,Blackburn Rovers,Anglettere,Attaquant,1.0,1995,UEFA,1
+165,32,Luis Figo,FC Barcelone,Portugal,Attaquant,1.0,1995,UEFA,1
+166,32,Ian Wright,Arsenal,Anglettere,Attaquant,1.0,1995,UEFA,1
+167,1,Matthias Sammer,Borussia Dortmund,Allemagne,Attaquant,144,1996,UEFA,1
+168,2,Ronaldo,PSV Eindhoven  FC Barcelone,Brazil,Attaquant,143,1996,UEFA,1
+169,3,Alan Shearer,Blackburn Rovers  Newcastle United,Anglettere,Attaquant,107,1996,UEFA,1
+170,4,Alessandro Del Piero,Juventus FC,Italie,Attaquant,69,1996,UEFA,1
+171,5,Jurgen Klinsmann,Bayern Munich,Allemagne,Attaquant,60,1996,UEFA,1
+172,6,Davor Suker,Real Madrid,Croatie,Attaquant,38,1996,UEFA,1
+173,7,Eric Cantona,Manchester United,France,Attaquant,24,1996,UEFA,1
+174,8,Marcel Desailly,Milan AC,France,Attaquant,22,1996,UEFA,1
+175,9,Youri Djorkaeff,Inter Milan,France,Attaquant,20,1996,UEFA,1
+176,10,Karel Poborsky,Slavia Prague  Manchester United,Czech Republic,Attaquant,15,1996,UEFA,1
+177,11,Nwankwo Kanu,Inter Milan,Nigeria,Attaquant,14,1996,UEFA,1
+178,12,George Weah,Milan AC,Liberia,Attaquant,13,1996,UEFA,1
+179,13,Alen Boksic,Juventus FC,Croatie,Attaquant,12,1996,UEFA,1
+180,13,Gabriel Batistuta,Fiorentina,Argentine,Attaquant,12,1996,UEFA,1
+181,13,Andreas Kopke,Marseille,Allemagne,Attaquant,12,1996,UEFA,1
+182,16,Fabrizio Ravanelli,Middlesbrough,Italie,Attaquant,9,1996,UEFA,1
+183,16,Predrag Mijatovic,Real Madrid,Yugoslavia,Attaquant,9,1996,UEFA,1
+184,18,Didier Deschamps,Juventus FC,France,Attaquant,8,1996,UEFA,1
+185,19,Kubilay Turkyilmaz,Grasshopper,Suisse,Attaquant,5,1996,UEFA,1
+186,20,David Seaman,Arsenal,Anglettere,Attaquant,4,1996,UEFA,1
+187,20,Raul,Real Madrid,Espagne,Attaquant,4,1996,UEFA,1
+188,22,Paolo Maldini,Milan AC,Italie,Attaquant,3,1996,UEFA,1
+189,22,Christian Ziege,Bayern Munich,Allemagne,Attaquant,3,1996,UEFA,1
+190,22,Patrik Berger,Borussia Dortmund  Liverpool,Czech Republic,Attaquant,3,1996,UEFA,1
+191,22,Trifon Ivanov,Rapid Wien,Bulgarie,Attaquant,3,1996,UEFA,1
+192,26,Radek Bejbl,Slavia Prague  Atletico Madrid,Czech Republic,Attaquant,2,1996,UEFA,1
+193,26,Rui Costa,Fiorentina,Portugal,Attaquant,2,1996,UEFA,1
+194,28,Ronald de Boer,Ajax,Pays-Bas,Attaquant,1,1996,UEFA,1
+195,28,Luis Figo,FC Barcelone,Portugal,Attaquant,1,1996,UEFA,1
+196,28,Brian Laudrup,Rangers,Danemark,Attaquant,1,1996,UEFA,1
+197,28,Sergi,FC Barcelone,Espagne,Attaquant,1,1996,UEFA,1
+198,28,Zinedine Zidane,Juventus FC,France,Attaquant,1,1996,UEFA,1
+199,1,Ronaldo,FC Barcelone  Inter Milan,Brazil,Attaquant,222,1997,UEFA,1
+200,2,Predrag Mijatovic,Real Madrid,Yougoslavie,Attaquant,68,1997,UEFA,1
+201,3,Zinedine Zidane,Juventus FC,France,Attaquant,63,1997,UEFA,1
+202,4,Dennis Bergkamp,Arsenal,Pays-Bas,Attaquant,53,1997,UEFA,1
+203,5,Roberto Carlos,Real Madrid,Brazil,Attaquant,47,1997,UEFA,1
+204,6,Andreas Moller,Borussia Dortmund,Allemagne,Attaquant,40,1997,UEFA,1
+205,7,Raul,Real Madrid,Espagne,Attaquant,35,1997,UEFA,1
+206,8,Peter Schmeichel,Manchester United,Danemark,Attaquant,19,1997,UEFA,1
+207,9,Jurgen Kohler,Borussia Dortmund,Allemagne,Attaquant,17,1997,UEFA,1
+208,10,Matthias Sammer,Borussia Dortmund,Allemagne,Attaquant,16,1997,UEFA,1
+209,10,Christian Vieri,Atletico Madrid,Italie,Attaquant,16,1997,UEFA,1
+210,12,Youri Djorkaeff,Inter Milan,France,Attaquant,15,1997,UEFA,1
+211,13,Luis Enrique,FC Barcelone,Espagne,Attaquant,14,1997,UEFA,1
+212,14,Luis Figo,FC Barcelone,Portugal,Attaquant,12,1997,UEFA,1
+213,15,Gianfranco Zola,Chelsea,Italie,Attaquant,11,1997,UEFA,1
+214,15,Krasimir Balakov,VfB Stuttgart,Bulgarie,Attaquant,11,1997,UEFA,1
+215,17,Didier Deschamps,Juventus FC,France,Attaquant,10,1997,UEFA,1
+216,17,Clarence Seedorf,Real Madrid,Pays-Bas,Attaquant,10,1997,UEFA,1
+217,19,Alessandro Del Piero,Juventus FC,Italie,Attaquant,9,1997,UEFA,1
+218,19,Alan Shearer,Newcastle United,Anglettere,Attaquant,9,1997,UEFA,1
+219,19,David Beckham,Manchester United,Anglettere,Attaquant,9,1997,UEFA,1
+220,22,Fernando Hierro,Real Madrid,Espagne,Attaquant,8,1997,UEFA,1
+221,23,Gabriel Batistuta,Fiorentina,Argentine,Attaquant,7,1997,UEFA,1
+222,24,Olaf Thon,Schalke 04,Allemagne,Attaquant,6,1997,UEFA,1
+223,25,Juninho,Atletico Madrid,Brazil,Attaquant,5,1997,UEFA,1
+224,25,Paulo Sousa,Borussia Dortmund,Portugal,Attaquant,5,1997,UEFA,1
+225,25,Lilian Thuram,Parma,France,Attaquant,5,1997,UEFA,1
+226,28,Ryan Giggs,Manchester United,Pays de Galles,Attaquant,4,1997,UEFA,1
+227,29,Oliver Bierhoff,Udinese,Allemagne,Attaquant,3,1997,UEFA,1
+228,29,Angelo Peruzzi,Juventus FC,Italie,Attaquant,3,1997,UEFA,1
+229,29,Rai,Paris Saint-Germain,Brazil,Attaquant,3,1997,UEFA,1
+230,32,Victor Ikpeba,Monaco,Nigeria,Attaquant,2,1997,UEFA,1
+231,33,Laurent Blanc,Marseille,France,Attaquant,1,1997,UEFA,1
+232,33,Ciro Ferrara,Juventus FC,Italie,Attaquant,1,1997,UEFA,1
+233,33,Rivaldo,FC Barcelone,Brazil,Attaquant,1,1997,UEFA,1
+234,33,Bent Skammelsrud,Rosenborg,Norvege,Attaquant,1,1997,UEFA,1
+235,1,Zinedine Zidane,Juventus FC,France,Attaquant,244,1998,UEFA,1
+236,2,Davor Suker,Real Madrid,Croatie,Attaquant,68,1998,UEFA,1
+237,3,Ronaldo,Inter Milan,Brazil,Attaquant,66,1998,UEFA,1
+238,4,Michael Owen,Liverpool,Anglettere,Attaquant,51,1998,UEFA,1
+239,5,Rivaldo,FC Barcelone,Brazil,Attaquant,45,1998,UEFA,1
+240,6,Gabriel Batistuta,Fiorentina,Argentine,Attaquant,43,1998,UEFA,1
+241,7,Lilian Thuram,Parma,France,Attaquant,36,1998,UEFA,1
+242,8,Edgar Davids,Juventus FC,Pays-Bas,Attaquant,28,1998,UEFA,1
+243,8,Dennis Bergkamp,Arsenal,Pays-Bas,Attaquant,28,1998,UEFA,1
+244,10,Marcel Desailly,Chelsea,France,Attaquant,19,1998,UEFA,1
+245,11,Frank de Boer,Ajax,Pays-Bas,Attaquant,17,1998,UEFA,1
+246,12,Emmanuel Petit,Arsenal,France,Attaquant,16,1998,UEFA,1
+247,13,Roberto Carlos,Real Madrid,Brazil,Attaquant,13,1998,UEFA,1
+248,14,Laurent Blanc,Marseille,France,Attaquant,11,1998,UEFA,1
+249,14,Fabien Barthez,Monaco,France,Attaquant,11,1998,UEFA,1
+250,16,Alessandro Del Piero,Juventus FC,Italie,Attaquant,10,1998,UEFA,1
+251,16,Predrag Mijatovic,Real Madrid,Yugoslavia,Attaquant,10,1998,UEFA,1
+252,18,Didier Deschamps,Juventus FC,France,Attaquant,9,1998,UEFA,1
+253,18,Oliver Bierhoff,Milan AC,Allemagne,Attaquant,9,1998,UEFA,1
+254,20,Michael Laudrup,Ajax,Danemark,Attaquant,6,1998,UEFA,1
+255,21,Ronald de Boer,Ajax,Pays-Bas,Attaquant,4,1998,UEFA,1
+256,21,Raul,Real Madrid,Espagne,Attaquant,4,1998,UEFA,1
+257,23,Brian Laudrup,Chelsea,Danemark,Attaquant,3,1998,UEFA,1
+258,23,Clarence Seedorf,Real Madrid,Pays-Bas,Attaquant,3,1998,UEFA,1
+259,23,Marc Overmars,Arsenal,Pays-Bas,Attaquant,3,1998,UEFA,1
+260,26,Christian Vieri,Lazio,Italie,Attaquant,2,1998,UEFA,1
+261,26,Fernando Hierro,Real Madrid,Espagne,Attaquant,2,1998,UEFA,1
+262,28,David Beckham,Manchester United,Anglettere,Attaquant,1,1998,UEFA,1
+263,28,Luis Enrique,FC Barcelone,Espagne,Attaquant,1,1998,UEFA,1
+264,28,Bixente Lizarazu,Bayern Munich,France,Attaquant,1,1998,UEFA,1
+265,28,Nikos Machlas,Vitesse,Grece,Attaquant,1,1998,UEFA,1
+266,1,Rivaldo,FC Barcelone,Brazil,Attaquant,219,1999,UEFA,1
+267,2,David Beckham,Manchester United,Anglettere,Attaquant,154,1999,UEFA,1
+268,3,Andriy Shevchenko,Milan AC,Ukraine,Attaquant,64,1999,UEFA,1
+269,4,Gabriel Batistuta,Fiorentina,Argentine,Attaquant,48,1999,UEFA,1
+270,5,Luis Figo,FC Barcelone,Portugal,Attaquant,38,1999,UEFA,1
+271,6,Roy Keane,Manchester United,Irelande,Attaquant,36,1999,UEFA,1
+272,7,Christian Vieri,Lazio,Italie,Attaquant,33,1999,UEFA,1
+273,8,Juan Sebastian Veron,Lazio,Argentine,Attaquant,30,1999,UEFA,1
+274,9,Raul,Real Madrid,Espagne,Attaquant,27,1999,UEFA,1
+275,10,Lothar Matthäus,Bayern Munich,Allemagne,Attaquant,16,1999,UEFA,1
+276,11,Dwight Yorke,Manchester United,Trinidad and Tobago,Attaquant,14,1999,UEFA,1
+277,12,Jaap Stam,Manchester United,Pays-Bas,Attaquant,13,1999,UEFA,1
+278,13,Sinisa Mihajlovic,Lazio,Yougoslavie,Attaquant,12,1999,UEFA,1
+279,14,Zlatko Zahovic,Olympiacos,Slovenia,Attaquant,9,1999,UEFA,1
+280,15,Pavel Nedved,Lazio,Czech Republic,Attaquant,8,1999,UEFA,1
+281,16,Mario Jardel,Porto,Brazil,Attaquant,7,1999,UEFA,1
+282,17,Peter Schmeichel,Manchester United,Danemark,Attaquant,6,1999,UEFA,1
+283,18,Stefan Effenberg,Bayern Munich,Allemagne,Attaquant,5,1999,UEFA,1
+284,19,Zinedine Zidane,Juventus FC,France,Attaquant,4,1999,UEFA,1
+285,19,Oliver Bierhoff,Milan AC,Allemagne,Attaquant,4,1999,UEFA,1
+286,21,Mario Basler,Bayern Munich,Allemagne,Attaquant,3,1999,UEFA,1
+287,21,Ryan Giggs,Manchester United,Pays de Galles,Attaquant,3,1999,UEFA,1
+288,23,Hernan Crespo,Parma,Argentine,Attaquant,2,1999,UEFA,1
+289,23,Nwankwo Kanu,Arsenal,Nigeria,Attaquant,2,1999,UEFA,1
+290,23,Ronaldo,Inter Milan,Brazil,Attaquant,2,1999,UEFA,1
+291,26,Andy Cole,Manchester United,Anglettere,Attaquant,1,1999,UEFA,1
+292,26,Edgar Davids,Juventus FC,Pays-Bas,Attaquant,1,1999,UEFA,1
+293,26,David Ginola,Tottenham Hotspur,France,Attaquant,1,1999,UEFA,1
+294,26,Claudio Lopez,Valencia,Argentine,Attaquant,1,1999,UEFA,1
+295,26,Roberto Carlos,Real Madrid,Brazil,Attaquant,1,1999,UEFA,1
+296,26,Marcelo Salas,Lazio,Chile,Attaquant,1,1999,UEFA,1
+297,1,Luis Figo,FC Barcelone  Real Madrid,Portugal,Attaquant,197,2000,UEFA,1
+298,2,Zinedine Zidane,Juventus FC,France,Attaquant,181,2000,UEFA,1
+299,3,Andriy Shevchenko,Milan AC,Ukraine,Attaquant,85,2000,UEFA,1
+300,4,Thierry Henry,Arsenal,France,Attaquant,57,2000,UEFA,1
+301,5,Alessandro Nesta,Lazio,Italie,Attaquant,39,2000,UEFA,1
+302,6,Rivaldo,FC Barcelone,Bresil,Attaquant,39,2000,UEFA,1
+303,7,Gabriel Batistuta,Roma,Argentine,Attaquant,26,2000,UEFA,1
+304,8,Gaizka Mendieta,Valencia,Espagne,Attaquant,22,2000,UEFA,1
+305,9,Raul,Real Madrid,Espagne,Attaquant,18,2000,UEFA,1
+306,10,Paolo Maldini,Milan AC,Italie,Attaquant,10,2000,UEFA,1
+307,10,David Beckham,Manchester United,Anglettere,Attaquant,10,2000,UEFA,1
+308,12,Zlatko Zahovic,Olympiacos  Valencia,Slovenie,Attaquant,8,2000,UEFA,1
+309,12,Fabien Barthez,Manchester United,France,Attaquant,8,2000,UEFA,1
+310,14,Francesco Toldo,Fiorentina,Italie,Attaquant,7,2000,UEFA,1
+311,14,Francesco Totti,Roma,Italie,Attaquant,7,2000,UEFA,1
+312,14,Roberto Carlos,Real Madrid,Bresil,Attaquant,7,2000,UEFA,1
+313,17,Patrick Kluivert,FC Barcelone,Pays-Bas,Attaquant,6,2000,UEFA,1
+314,18,Edgar Davids,Juventus FC,Pays-Bas,Attaquant,5,2000,UEFA,1
+315,18,Hakan Sukur,Inter Milan,Turkey,Attaquant,5,2000,UEFA,1
+316,18,Mario Jardel,Galatasaray,Bresil,Attaquant,5,2000,UEFA,1
+317,18,Fernando Redondo,Real Madrid  Milan AC,Argentine,Attaquant,5,2000,UEFA,1
+318,22,Pavel Nedved,Lazio,Czech Republic,Attaquant,4,2000,UEFA,1
+319,22,David Trezeguet,Juventus FC,France,Attaquant,4,2000,UEFA,1
+320,24,Marcel Desailly,Chelsea,France,Attaquant,2,2000,UEFA,1
+321,24,Oliver Kahn,Bayern Munich,Allemagne,Attaquant,2,2000,UEFA,1
+322,24,Rui Costa,Fiorentina,Portugal,Attaquant,2,2000,UEFA,1
+323,27,Laurent Blanc,Inter Milan,France,Attaquant,1,2000,UEFA,1
+324,27,Claudio Lopez,Valencia  Lazio,Argentine,Attaquant,1,2000,UEFA,1
+325,27,Roy Keane,Manchester United,Irelande,Attaquant,1,2000,UEFA,1
+326,27,Juan Sebastian Veron,Lazio,Argentine,Attaquant,1,2000,UEFA,1
+327,1,Michael Owen,Liverpool,Anglettere,Attaquant,176,2001,UEFA,1
+328,2,Raul,Real Madrid,Espagne,Attaquant,140,2001,UEFA,1
+329,3,Oliver Kahn,Bayern Munich,Allemagne,Attaquant,114,2001,UEFA,1
+330,4,David Beckham,Manchester United,Anglettere,Attaquant,102,2001,UEFA,1
+331,5,Francesco Totti,A.S. Roma,Italie,Attaquant,57,2001,UEFA,1
+332,6,Luis Figo,Real Madrid,Portugal,Attaquant,56,2001,UEFA,1
+333,7,Rivaldo,FC Barcelone,Bresil,Attaquant,20,2001,UEFA,1
+334,8,Andriy Shevchenko,Milan AC,Ukraine,Attaquant,18,2001,UEFA,1
+335,9,Thierry Henry,Arsenal,France,Attaquant,14,2001,UEFA,1
+336,9,Zinedine Zidane,Real Madrid,France,Attaquant,14,2001,UEFA,1
+337,11,Bixente Lizarazu,Bayern Munich,France,Attaquant,10,2001,UEFA,1
+338,12,David Trezeguet,Juventus FC,France,Attaquant,7,2001,UEFA,1
+339,13,Stefan Effenberg,Bayern Munich,Allemagne,Attaquant,6,2001,UEFA,1
+340,14,Henrik Larsson,Celtic,Suede,Attaquant,4,2001,UEFA,1
+341,14,Alessandro Nesta,Lazio,Italie,Attaquant,4,2001,UEFA,1
+342,16,Juan Sebastian Veron,Lazio  Manchester United,Argentine,Attaquant,3,2001,UEFA,1
+343,16,Hernan Crespo,Lazio,Argentine,Attaquant,3,2001,UEFA,1
+344,18,Giovane Elber,Bayern Munich,Bresil,Attaquant,2,2001,UEFA,1
+345,18,Gaizka Mendieta,Valencia  Lazio,Espagne,Attaquant,2,2001,UEFA,1
+346,18,Roberto Carlos,Real Madrid,Bresil,Attaquant,2,2001,UEFA,1
+347,18,Damiano Tommasi,Roma,Italie,Attaquant,2,2001,UEFA,1
+348,18,Sami Hyypiä,Liverpool,Finland,Attaquant,2,2001,UEFA,1
+349,18,Emmanuel Olisadebe,Panathinaikos,Poland,Attaquant,2,2001,UEFA,1
+350,18,Ebbe Sand,Schalke 04,Danemark,Attaquant,2,2001,UEFA,1
+351,25,Roberto Baggio,Brescia,Italie,Attaquant,1,2001,UEFA,1
+352,25,Steven Gerrard,Liverpool,Anglettere,Attaquant,1,2001,UEFA,1
+353,25,Rui Costa,Milan AC,Portugal,Attaquant,1,2001,UEFA,1
+354,28,Sonny Anderson,Lyon,Bresil,Attaquant,0,2001,UEFA,1
+355,28,Fabien Barthez,Manchester United,France,Attaquant,0,2001,UEFA,1
+356,28,Gabriel Batistuta,Roma,Argentine,Attaquant,0,2001,UEFA,1
+357,28,Gianluigi Buffon,Parma  Juventus FC,Italie,Attaquant,0,2001,UEFA,1
+358,28,Cafu,Roma,Bresil,Attaquant,0,2001,UEFA,1
+359,28,Vincent Candela,Roma,France,Attaquant,0,2001,UEFA,1
+360,28,Alessandro Del Piero,Juventus FC,Italie,Attaquant,0,2001,UEFA,1
+361,28,Marcel Desailly,Chelsea,France,Attaquant,0,2001,UEFA,1
+362,28,Rio Ferdinand,Leeds United,Anglettere,Attaquant,0,2001,UEFA,1
+363,28,Ryan Giggs,Manchester United,Pays de Galles,Attaquant,0,2001,UEFA,1
+364,28,Jimmy Floyd Hasselbaink,Chelsea,Pays-Bas,Attaquant,0,2001,UEFA,1
+365,28,Iván Helguera,Real Madrid,Espagne,Attaquant,0,2001,UEFA,1
+366,28,Harry Kewell,Leeds United,Australia,Attaquant,0,2001,UEFA,1
+367,28,Patrick Kluivert,FC Barcelone,Pays-Bas,Attaquant,0,2001,UEFA,1
+368,28,Samuel Kuffour,Bayern Munich,Ghana,Attaquant,0,2001,UEFA,1
+369,28,Hidetoshi Nakata,Roma  Parma,Japan,Attaquant,0,2001,UEFA,1
+370,28,Pavel Nedved,Lazio  Juventus FC,Czech Republic,Attaquant,0,2001,UEFA,1
+371,28,Pauleta,Bordeaux,Portugal,Attaquant,0,2001,UEFA,1
+372,28,Robert Pires,Arsenal,France,Attaquant,0,2001,UEFA,1
+373,28,Paul Scholes,Manchester United,Anglettere,Attaquant,0,2001,UEFA,1
+374,28,Lilian Thuram,Parma  Juventus FC,France,Attaquant,0,2001,UEFA,1
+375,28,Patrick Vieira,Arsenal,France,Attaquant,0,2001,UEFA,1
+376,28,Eric Carrière,Nantes,France,Attaquant,0,2001,UEFA,1
+377,1,Ronaldo,Inter Milan  Real Madrid,Bresil,Attaquant,169,2002,UEFA,1
+378,2,Roberto Carlos,Real Madrid,Bresil,Attaquant,145,2002,UEFA,1
+379,3,Oliver Kahn,Bayern Munich,Allemagne,Attaquant,110,2002,UEFA,1
+380,4,Zinedine Zidane,Real Madrid,France,Attaquant,78,2002,UEFA,1
+381,5,Michael Ballack,Bayer Leverkusen  Bayern Munich,Allemagne,Attaquant,71,2002,UEFA,1
+382,6,Thierry Henry,Arsenal,France,Attaquant,54,2002,UEFA,1
+383,7,Raul,Real Madrid,Espagne,Attaquant,38,2002,UEFA,1
+384,8,Rivaldo,FC Barcelone  Milan AC,Bresil,Attaquant,31,2002,UEFA,1
+385,9,Yıldıray Basturk,Bayer Leverkusen,Turkey,Attaquant,13,2002,UEFA,1
+386,10,Alessandro Del Piero,Juventus FC,Italie,Attaquant,12,2002,UEFA,1
+387,11,Hasan Sas,Galatasaray,Turkey,Attaquant,10,2002,UEFA,1
+388,12,Ronaldinho,Paris Saint-Germain,Bresil,Attaquant,8,2002,UEFA,1
+389,13,Michael Owen,Liverpool,Anglettere,Attaquant,5,2002,UEFA,1
+390,13,Ruud van Nistelrooy,Manchester United,Pays-Bas,Attaquant,5,2002,UEFA,1
+391,15,Bernd Schneider,Bayer Leverkusen,Allemagne,Attaquant,4,2002,UEFA,1
+392,15,Juan Carlos Valerón,Deportivo La Corogne,Espagne,Attaquant,4,2002,UEFA,1
+393,15,Cafu,Roma,Bresil,Attaquant,4,2002,UEFA,1
+394,15,Patrick Vieira,Arsenal,France,Attaquant,4,2002,UEFA,1
+395,19,Lucio,Bayer Leverkusen,Bresil,Attaquant,3,2002,UEFA,1
+396,19,Luis Figo,Real Madrid,Portugal,Attaquant,3,2002,UEFA,1
+397,21,Papa Bouba Diop,Lens,Senegal,Attaquant,2,2002,UEFA,1
+398,21,El Hadji Diouf,Lens  Liverpool,Senegal,Attaquant,2,2002,UEFA,1
+399,21,Rio Ferdinand,Leeds United  Manchester United,Anglettere,Attaquant,2,2002,UEFA,1
+400,24,Rubén Baraja,Valencia,Espagne,Attaquant,1,2002,UEFA,1
+401,24,Filippo Inzaghi,Milan AC,Italie,Attaquant,1,2002,UEFA,1
+402,24,Roy Makaay,Deportivo La Corogne,Pays-Bas,Attaquant,1,2002,UEFA,1

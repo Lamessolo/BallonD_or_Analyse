@@ -37,4 +37,9 @@ SELECT Club, COUNT(*)  FROM players GROUP BY Club;
 /* Le club qui a le plus de representant pour la table 90_99 */
 SELECT Club, COUNT(*)  FROM players90s GROUP BY Club;
 
+/* Quelle joueur à marquer le plus de points depuis 2016 ? */
+SELECT Nom,Selection,Poste, SUM(Points) AS total_pts FROM Players90s GROUP BY Nom ORDER BY  total_pts DESC;
+
+/* Le club le plus representé */
+SELECT  Club , COUNT(*) AS Point_obtenu FROM players90s GROUP BY Club  HAVING COUNT(*) >1 ORDER BY Point_obtenu DESC ;
 
