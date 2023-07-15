@@ -1,33 +1,33 @@
 Primary_Key,Rank,Nom,Club,Selection,Poste,Points,Confederation,Type,Year
-167,1,Matthias Sammer,Borussia Dortmund,Allemagne,Attaquant,,UEFA,1,1996
-168,2,Ronaldo,PSV Eindhoven  FC Barcelone,Brazil,Attaquant,[],UEFA,1,1996
-169,3,Alan Shearer,Blackburn Rovers  Newcastle United,Angleterre,Attaquant,07[],UEFA,1,1996
-170,4,Alessandro Del Piero,Juventus FC,Italie,Attaquant,69[],UEFA,1,1996
+167,1,Matthias Sammer,Borussia Dortmund,Allemagne,Attaquant,144,UEFA,1,1996
+168,2,Ronaldo,PSV Eindhoven,Bresil,Attaquant,143,UEFA,3,1996
+169,3,Alan Shearer,Blackburn Rovers,Angleterre,Attaquant,107,UEFA,1,1996
+170,4,Alessandro Del Piero,Juventus FC,Italie,Attaquant,69,UEFA,1,1996
 171,5,Jurgen Klinsmann,Bayern Munich,Allemagne,Attaquant,60,UEFA,1,1996
-172,6,Davor Suker,Real Madrid,Croatie,Attaquant,8,UEFA,1,1996
-173,7,Eric Cantona,Manchester United,France,Attaquant,,UEFA,1,1996
-174,8,Marcel Desailly,Milan AC,France,Attaquant,,UEFA,1,1996
-175,9,Youri Djorkaeff,Inter Milan,France,Attaquant,0,UEFA,1,1996
-176,10,Karel Poborsky,Slavia Prague  Manchester United,Czech Republic,Attaquant,5,UEFA,1,1996
-177,11,Nwankwo Kanu,Inter Milan,Nigeria,Attaquant,,UEFA,2,1996
-178,12,George Weah,Milan AC,Liberia,Attaquant,[],UEFA,1,1996
-179,13,Alen Boksic,Juventus FC,Croatie,Attaquant,,UEFA,1,1996
-180,13,Gabriel Batistuta,Fiorentina,Argentine,Attaquant,,UEFA,3,1996
-181,13,Andreas Kopke,Marseille,Allemagne,Attaquant,,UEFA,1,1996
+172,6,Davor Suker,Real Madrid,Croatie,Attaquant,38,UEFA,1,1996
+173,7,Eric Cantona,Manchester United,France,Attaquant,24,UEFA,1,1996
+174,8,Marcel Desailly,Milan AC,France,Attaquant,22,UEFA,1,1996
+175,9,Youri Djorkaeff,Inter Milan,France,Attaquant,20,UEFA,1,1996
+176,10,Karel Poborsky,Slavia Prague,Republique-Tcheque,Attaquant,15,UEFA,1,1996
+177,11,Nwankwo Kanu,Inter Milan,Nigeria,Attaquant,14,UEFA,2,1996
+178,12,George Weah,Milan AC,Liberia,Attaquant,13,UEFA,1,1996
+179,13,Alen Boksic,Juventus FC,Croatie,Attaquant,12,UEFA,1,1996
+180,13,Gabriel Batistuta,Fiorentina,Argentine,Attaquant,12,UEFA,3,1996
+181,13,Andreas Kopke,Marseille,Allemagne,Attaquant,12,UEFA,1,1996
 182,16,Fabrizio Ravanelli,Middlesbrough,Italie,Attaquant,9,UEFA,1,1996
-183,16,Predrag Mijatovic,Real Madrid,Yugoslavia,Attaquant,9,UEFA,1,1996
+183,16,Predrag Mijatovic,Real Madrid,Yougoslavie,Attaquant,9,UEFA,1,1996
 184,18,Didier Deschamps,Juventus FC,France,Attaquant,8,UEFA,1,1996
 185,19,Kubilay Turkyilmaz,Grasshopper,Suisse,Attaquant,5,UEFA,1,1996
-186,20,David Seaman,Arsenal,Angleterre,Attaquant,,UEFA,1,1996
-187,20,Raul,Real Madrid,Espagne,Attaquant,,UEFA,1,1996
-188,22,Paolo Maldini,Milan AC,Italie,Attaquant,,UEFA,1,1996
-189,22,Christian Ziege,Bayern Munich,Allemagne,Attaquant,,UEFA,1,1996
-190,22,Patrik Berger,Borussia Dortmund  Liverpool,Czech Republic,Attaquant,,UEFA,1,1996
-191,22,Trifon Ivanov,Rapid Wien,Bulgarie,Attaquant,,UEFA,1,1996
-192,26,Radek Bejbl,Slavia Prague  Atletico Madrid,Czech Republic,Attaquant,,UEFA,1,1996
-193,26,Rui Costa,Fiorentina,Portugal,Attaquant,,UEFA,1,1996
-194,28,Ronald de Boer,Ajax,Pays-Bas,Attaquant,,UEFA,1,1996
-195,28,Luis Figo,FC Barcelone,Portugal,Attaquant,,UEFA,1,1996
-196,28,Brian Laudrup,Rangers,Danemark,Attaquant,,UEFA,1,1996
-197,28,Sergi,FC Barcelone,Espagne,Attaquant,,UEFA,1,1996
-198,28,Zinedine Zidane,Juventus FC,France,Attaquant,,UEFA,1,1996
+186,20,David Seaman,Arsenal,Angleterre,Attaquant,4,UEFA,1,1996
+187,20,Raul,Real Madrid,Espagne,Attaquant,4,UEFA,1,1996
+188,22,Paolo Maldini,Milan AC,Italie,Attaquant,3,UEFA,1,1996
+189,22,Christian Ziege,Bayern Munich,Allemagne,Attaquant,3,UEFA,1,1996
+190,22,Patrik Berger,Borussia Dortmund,Republique-Tcheque,Attaquant,3,UEFA,1,1996
+191,22,Trifon Ivanov,Rapid Vienne,Bulgarie,Attaquant,3,UEFA,1,1996
+192,26,Radek Bejbl,Slavia Prague,Republique-Tcheque,Attaquant,2,UEFA,1,1996
+193,26,Rui Costa,Fiorentina,Portugal,Attaquant,2,UEFA,1,1996
+194,28,Ronald de Boer,Ajax,Pays-Bas,Attaquant,1,UEFA,1,1996
+195,28,Luis Figo,FC Barcelone,Portugal,Attaquant,1,UEFA,1,1996
+196,28,Brian Laudrup,Rangers,Danemark,Attaquant,1,UEFA,1,1996
+197,28,Sergi,FC Barcelone,Espagne,Attaquant,1,UEFA,1,1996
+198,28,Zinedine Zidane,Juventus FC,France,Attaquant,1,UEFA,1,1996

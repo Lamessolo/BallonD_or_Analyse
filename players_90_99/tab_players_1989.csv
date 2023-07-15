@@ -1,31 +1,31 @@
-Primary_Key,Rank,Nom,Club,Country,Selection,Poste,Points,Confederation,Type,Year
-377,1,Marco van Basten,Milan AC,Italie,Pays-Bas,Attaquant,119,UEFA,1,1989
-378,2,Franco Baresi,Milan AC,Italie,Italie,Attaquant,80,UEFA,1,1989
-379,3,Frank Rijkaard,Milan AC,Italie,Pays-Bas,Attaquant,43,UEFA,1,1989
-380,4,Lothar Matthaus,Inter Milan,Italie,Allemagne,Attaquant,24,UEFA,1,1989
-381,5,Peter Shilton,Derby County,Angleterre,Angleterre,Attaquant,22,UEFA,1,1989
-382,6,Dragan Stojkovic,Red Star Belgrade,Russie,Yugoslavia,Attaquant,19,UEFA,1,1989
-383,7,Ruud Gullit,Milan AC,Italie,Pays-Bas,Attaquant,16,UEFA,1,1989
-384,8,Gheorghe Hagi,Steauat Bucarest,Roumanie,Roumanie,Attaquant,11,UEFA,1,1989
-385,8,Jurgen Klinsmann,Inter Milan,Italie,Allemagne,Attaquant,11,UEFA,1,1989
-386,10,Jean-Pierre Papin,Marseille,France,France,Attaquant,10,UEFA,1,1989
-387,10,Michel Preud'homme,Mechelen,Belgique,Belgique,Attaquant,10,UEFA,1,1989
-388,12,Oleksiy Mykhaylychenko,Dynamo Kiev,Ukraine,Soviet Union,Attaquant,6,UEFA,1,1989
-389,13,Míchel,Real Madrid,Espagne,Espagne,Attaquant,5,UEFA,1,1989
-390,14,Andreas Brehme,Inter Milan,Italie,Allemagne,Attaquant,3,UEFA,1,1989
-391,14,Paulo Futre,Atletico Madrid,Espagne,Portugal,Attaquant,3,UEFA,1,1989
-392,14,Karl-Heinz Riedle,Werder Bremen,Allemagne,Allemagne,Attaquant,3,UEFA,1,1989
-393,17,John Barnes,Liverpool,Angleterre,Angleterre,Attaquant,2,UEFA,1,1989
-394,17,Packie Bonner,Celtic,Angleterre,Irelande,Attaquant,2,UEFA,1,1989
-395,17,Glenn Hysen,Liverpool,Angleterre,Suede,Attaquant,2,UEFA,1,1989
-396,17,Oleh Kuznetsov,Dynamo Kiev,Ukraine,Soviet Union,Attaquant,2,UEFA,1,1989
-397,17,Andreas Moller,Borussia Dortmund,Allemagne,Allemagne,Attaquant,2,UEFA,1,1989
-398,17,Julio Salinas,FC Barcelone,Espagne,Espagne,Attaquant,2,UEFA,1,1989
-399,23,Thomas Hassler,Cologne,Allemagne,Allemagne,Attaquant,1,UEFA,1,1989
-400,23,Ronald Koeman,FC Barcelone,Espagne,Pays-Bas,Attaquant,1,UEFA,1,1989
-401,23,Robby Langers,Nice,France,Luxembourg,Attaquant,1,UEFA,1,1989
-402,23,Gary Lineker,Tottenham Hotspur,Angleterre,Angleterre,Attaquant,1,UEFA,1,1989
-403,23,Paolo Maldini,Milan AC,Italie,Italie,Attaquant,1,UEFA,1,1989
-404,23,Theo Snelders,Aberdeen,Angleterre,Pays-Bas,Attaquant,1,UEFA,1,1989
-405,23,Gianluca Vialli,Sampdoria,Italie,Italie,Attaquant,1,UEFA,1,1989
-406,23,Oleksandr Zavarov,Juventus FC,Italie,Soviet Union,Attaquant,1,UEFA,1,1989
+Primary_Key,Rank,Nom,Club,Selection,Poste,Points,Confederation,Type,Year
+377,1,Marco van Basten,AC Milan AC,Pays-Bas,Attaquant,119,UEFA,1,1989
+378,2,Franco Baresi,Milan AC,Italie,Attaquant,80,UEFA,1,1989
+379,3,Frank Rijkaard,Milan AC,Pays-Bas,Attaquant,43,UEFA,1,1989
+380,4,Lothar Matthaus,Inter Milan,Allemagne,Attaquant,24,UEFA,1,1989
+381,5,Peter Shilton,Derby County,Angleterre,Attaquant,22,UEFA,1,1989
+382,6,Dragan Stojkovic,Red Star Belgrade,Yugoslavia,Attaquant,19,UEFA,1,1989
+383,7,Ruud Gullit,Milan AC,Pays-Bas,Attaquant,16,UEFA,1,1989
+384,8,Gheorghe Hagi,Steauat Bucarest,Roumanie,Attaquant,11,UEFA,1,1989
+385,8,Jurgen Klinsmann,Inter Milan,Allemagne,Attaquant,11,UEFA,1,1989
+386,10,Jean-Pierre Papin,Marseille,France,Attaquant,10,UEFA,1,1989
+387,10,Michel Preud'homme,Mechelen,Belgique,Attaquant,10,UEFA,1,1989
+388,12,Oleksiy Mykhaylychenko,Dynamo Kiev,Soviet Union,Attaquant,6,UEFA,1,1989
+389,13,Míchel,Real Madrid,Espagne,Attaquant,5,UEFA,1,1989
+390,14,Andreas Brehme,Inter Milan,Allemagne,Attaquant,3,UEFA,1,1989
+391,14,Paulo Futre,Atletico Madrid,Portugal,Attaquant,3,UEFA,1,1989
+392,14,Karl-Heinz Riedle,Werder Bremen,Allemagne,Attaquant,3,UEFA,1,1989
+393,17,John Barnes,Liverpool,Angleterre,Attaquant,2,UEFA,1,1989
+394,17,Packie Bonner,Celtic,Irelande,Attaquant,2,UEFA,1,1989
+395,17,Glenn Hysen,Liverpool,Suede,Attaquant,2,UEFA,1,1989
+396,17,Oleh Kuznetsov,Dynamo Kiev,Soviet Union,Attaquant,2,UEFA,1,1989
+397,17,Andreas Moller,Borussia Dortmund,Allemagne,Attaquant,2,UEFA,1,1989
+398,17,Julio Salinas,FC Barcelone,Espagne,Attaquant,2,UEFA,1,1989
+399,23,Thomas Hassler,Cologne,Allemagne,Attaquant,1,UEFA,1,1989
+400,23,Ronald Koeman,FC Barcelone,Pays-Bas,Attaquant,1,UEFA,1,1989
+401,23,Robby Langers,Nice,Luxembourg,Attaquant,1,UEFA,1,1989
+402,23,Gary Lineker,Tottenham Hotspur,Angleterre,Attaquant,1,UEFA,1,1989
+403,23,Paolo Maldini,Milan AC,Italie,Attaquant,1,UEFA,1,1989
+404,23,Theo Snelders,Aberdeen,Pays-Bas,Attaquant,1,UEFA,1,1989
+405,23,Gianluca Vialli,Sampdoria,Italie,Attaquant,1,UEFA,1,1989
+406,23,Oleksandr Zavarov,Juventus FC,Soviet Union,Attaquant,1,UEFA,1,1989

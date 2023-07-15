@@ -1,0 +1,51 @@
+Primary_Key,Rank,Nom,Selection,Country,Club,Poste,Points,Confederation,Type,Year
+403,1,Kaka,Bresil,Italie,Milan AC,Attaquant,445,UEFA,3,2007
+404,2,Cristiano Ronaldo,Portugal,Angleterre,Manchester United,Attaquant,277,UEFA,1,2007
+405,3,Lionel Messi,Argentine,Espagne,FC Barcelone,Attaquant,255,UEFA,3,2007
+406,4,Didier Drogba,Cote d'ivoire,Angleterre,Chelsea,Attaquant,108,UEFA,1,2007
+407,5,Andrea Pirlo,Italie,Italie,Milan AC,Attaquant,41,UEFA,1,2007
+408,6,Ruud van Nistelrooy,Pays-Bas,Espagne,Real Madrid,Attaquant,39,UEFA,1,2007
+409,7,Zlatan Ibrahimovic,Suede,Italie,Inter Milan,Attaquant,31,UEFA,1,2007
+410,8,Cesc Fabregas,Espagne,Angleterre,Arsenal,Attaquant,27,UEFA,1,2007
+411,9,Robinho,Bresil,Espagne,Real Madrid,Attaquant,24,UEFA,3,2007
+412,10,Francesco Totti,Italie,Italie,Roma,Attaquant,20,UEFA,1,2007
+413,11,Frederic Kanoute,Mali,Espagne,Seville,Attaquant,19,UEFA,1,2007
+414,12,Ronaldinho,Bresil,Espagne,FC Barcelone,Attaquant,18,UEFA,3,2007
+415,13,Steven Gerrard,Angleterre,Angleterre,Liverpool,Attaquant,17,UEFA,1,2007
+416,14,Juan Roman Riquelme,Argentine,Espagne,Villarreal,Attaquant,15,UEFA,3,2007
+417,15,Dani Alves,Bresil,Espagne,Seville,Attaquant,14,UEFA,3,2007
+418,16,Filippo Inzaghi,Italie,Italie,Milan AC,Attaquant,12,UEFA,1,2007
+419,17,Franck Ribery,France,France,Marseille,Attaquant,10,UEFA,1,2007
+420,18,Paolo Maldini,Italie,Italie,Milan AC,Attaquant,8,UEFA,1,2007
+421,19,Gianluigi Buffon,Italie,Italie,Juventus FC,Attaquant,7,UEFA,1,2007
+422,19,Petr Cech,Republique-Tcheque,Angleterre,Chelsea,Attaquant,7,UEFA,1,2007
+423,19,Gennaro Gattuso,Italie,Italie,Milan AC,Attaquant,7,UEFA,1,2007
+424,19,Thierry Henry,France,France,Lens,Attaquant,7,UEFA,1,2007
+425,19,Clarence Seedorf,Pays-Bas,Italie,Milan AC,Attaquant,7,UEFA,1,2007
+426,24,Fabio Cannavaro,Italie,Espagne,Real Madrid,Attaquant,5,UEFA,1,2007
+427,24,Michael Essien,Ghana,Angleterre,Chelsea,Attaquant,5,UEFA,1,2007
+428,26,Wayne Rooney,Angleterre,Angleterre,Manchester United,Attaquant,4,UEFA,1,2007
+429,27,Iker Casillas,Espagne,Espagne,Real Madrid,Attaquant,3,UEFA,1,2007
+430,27,Rogerio Ceni,Bresil,neant,Sao Paulo,Attaquant,3,UEFA,3,2007
+431,29,Younis Mahmoud,Iraq,neant,Al-Gharafa,Attaquant,2,UEFA,1,2007
+432,30,Guillermo Ochoa,Mexico,neant,América,Attaquant,1,UEFA,1,2007
+433,30,Dimitar Berbatov,Bulgarie,Angleterre,Tottenham Hotspur,Attaquant,1,UEFA,1,2007
+434,30,Samuel Eto'o,Cameroun,Espagne,FC Barcelone,Attaquant,1,UEFA,2,2007
+435,30,Ryan Giggs,Pays de Galles,Angleterre,Manchester United,Attaquant,1,UEFA,1,2007
+436,30,Carlos Tevez,Argentine,Angleterre,West Ham United,Attaquant,1,UEFA,3,2007
+437,30,Robin van Persie,Pays-Bas,Angleterre,Arsenal,Attaquant,1,UEFA,1,2007
+438,36,Eric Abidal,France,France,Lyon,Attaquant,0,UEFA,1,2007
+439,36,David Beckham,Angleterre,Espagne,Real Madrid,Attaquant,0,UEFA,1,2007
+440,36,Deco,Portugal,Espagne,FC Barcelone,Attaquant,0,UEFA,1,2007
+441,36,Mahamadou Diarra,Mali,Espagne,Real Madrid,Attaquant,0,UEFA,1,2007
+442,36,Diego,Bresil,Allemagne,Werder Bremen,Attaquant,0,UEFA,3,2007
+443,36,Miroslav Klose,Allemagne,Allemagne,Werder Breme,Attaquant,0,UEFA,1,2007
+444,36,Florent Malouda,France,France,Lyon,Attaquant,0,UEFA,1,2007
+445,36,Shunsuke Nakamura,Japan,Angleterre,Celtic,Attaquant,0,UEFA,1,2007
+446,36,Ricardo Quaresma,Portugal,Portugal,Porto,Attaquant,0,UEFA,1,2007
+447,36,Raul,Espagne,Espagne,Real Madrid,Attaquant,0,UEFA,1,2007
+448,36,Paul Scholes,Angleterre,Angleterre,Manchester United,Attaquant,0,UEFA,1,2007
+449,36,Luca Toni,Italie,Allemagne,Bayern Munich,Attaquant,0,UEFA,1,2007
+450,36,Kolo Touré,Cote d'ivoire,Angleterre,Arsenal,Attaquant,0,UEFA,1,2007
+451,36,Fernando Torres,Espagne,Espagne,Atletico Madrid,Attaquant,0,UEFA,1,2007
+452,36,David Villa,Espagne,Espagne,Valencia,Attaquant,0,UEFA,1,2007

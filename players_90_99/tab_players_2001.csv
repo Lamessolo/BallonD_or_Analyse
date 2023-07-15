@@ -14,7 +14,7 @@ Primary_Key,Rank,Nom,Club,Selection,Poste,Points,Confederation,Type,Year
 339,13,Stefan Effenberg,Bayern Munich,Allemagne,Attaquant,6,UEFA,1,2001
 340,14,Henrik Larsson,Celtic,Suede,Attaquant,4,UEFA,1,2001
 341,14,Alessandro Nesta,Lazio,Italie,Attaquant,4,UEFA,1,2001
-342,16,Juan Sebastian Veron,Lazio  Manchester United,Argentine,Attaquant,3,UEFA,3,2001
+342,16,Juan Sebastian Veron,Lazio,Argentine,Attaquant,3,UEFA,3,2001
 343,16,Hernan Crespo,Lazio,Argentine,Attaquant,3,UEFA,3,2001
 344,18,Giovane Elber,Bayern Munich,Bresil,Attaquant,2,UEFA,3,2001
 345,18,Gaizka Mendieta,Valencia  Lazio,Espagne,Attaquant,2,UEFA,1,2001
@@ -42,7 +42,7 @@ Primary_Key,Rank,Nom,Club,Selection,Poste,Points,Confederation,Type,Year
 367,28,Patrick Kluivert,FC Barcelone,Pays-Bas,Attaquant,0,UEFA,1,2001
 368,28,Samuel Kuffour,Bayern Munich,Ghana,Attaquant,0,UEFA,1,2001
 369,28,Hidetoshi Nakata,Roma  Parma,Japan,Attaquant,0,UEFA,1,2001
-370,28,Pavel Nedved,Lazio  Juventus FC,Czech Republic,Attaquant,0,UEFA,1,2001
+370,28,Pavel Nedved,Lazio  Juventus FC,Republique-Tcheque,Attaquant,0,UEFA,1,2001
 371,28,Pauleta,Bordeaux,Portugal,Attaquant,0,UEFA,1,2001
 372,28,Robert Pires,Arsenal,France,Attaquant,0,UEFA,1,2001
 373,28,Paul Scholes,Manchester United,Angleterre,Attaquant,0,UEFA,1,2001

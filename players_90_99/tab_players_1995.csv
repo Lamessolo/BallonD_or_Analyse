@@ -14,7 +14,7 @@ Primary_Key,Rank,Nom,Club,Selection,Poste,Points,Confederation,Type,Year
 145,12,Fabrizio Ravanelli,Juventus FC,Italie,Attaquant,15,UEFA,1,1995
 146,14,Paulo Sousa,Juventus FC,Portugal,Attaquant,14,UEFA,1,1995
 147,14,Hristo Stoichkov,Parma,Bulgarie,Attaquant,14,UEFA,1,1995
-148,16,Dejan Savicevic,Milan AC,Yugoslavia,Attaquant,12,UEFA,1,1995
+148,16,Dejan Savicevic,Milan AC,Yougoslavie,Attaquant,12,UEFA,1,1995
 149,17,Davor Suker,Sevilla,Croatie,Attaquant,10,UEFA,1,1995
 150,18,Fernando Hierro,Real Madrid,Espagne,Attaquant,9,UEFA,1,1995
 151,19,Gianluca Vialli,Juventus FC,Italie,Attaquant,8,UEFA,1,1995
@@ -25,7 +25,7 @@ Primary_Key,Rank,Nom,Club,Selection,Poste,Points,Confederation,Type,Year
 156,23,Anthony Yeboah,Leeds United,Ghana,Attaquant,5,UEFA,1,1995
 157,23,Zvonimir Boban,Milan AC,Croatie,Attaquant,5,UEFA,1,1995
 158,26,Ronaldo,PSV Eindhoven,Brazil,Attaquant,4,UEFA,1,1995
-159,27,Juan Esnáider,Real Zaragoza  Real Madrid,Argentine,Attaquant,3,UEFA,3,1995
+159,27,Juan Esnaider,Real Zaragoza  Real Madrid,Argentine,Attaquant,3,UEFA,3,1995
 160,27,Ivan Zamorano,Real Madrid,Chile,Attaquant,3,UEFA,1,1995
 161,27,Andreas Moller,Borussia Dortmund,Allemagne,Attaquant,3,UEFA,1,1995
 162,30,Vitor Baia,Porto,Portugal,Attaquant,2,UEFA,1,1995

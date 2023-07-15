@@ -1,0 +1,31 @@
+Primary_Key,Rank,Nom,Selection,Country,Club,Poste,Points,Confederation,Type,Year
+453,1,Cristiano Ronaldo,Portugal,Angleterre,Manchester United,Attaquant,446,UEFA,1,2008
+454,2,Lionel Messi,Argentine,Espagne,FC Barcelone,Attaquant,281,UEFA,3,2008
+455,3,Fernando Torres,Espagne,Angleterre,Liverpool,Attaquant,179,UEFA,1,2008
+456,4,Iker Casillas,Espagne,Espagne,Real Madrid,Attaquant,133,UEFA,1,2008
+457,5,Xavi,Espagne,Espagne,FC Barcelone,Attaquant,97,UEFA,1,2008
+458,6,Andrey Arshavin,Russie,Russie,Zenit Saint Petersburg,Attaquant,64,UEFA,1,2008
+459,7,David Villa,Espagne,Espagne,Valencia,Attaquant,55,UEFA,1,2008
+460,8,Zlatan Ibrahimovic,Suede,Italie,Inter Milan,Attaquant,30,UEFA,1,2008
+461,9,Kaka,Bresil,Italie,Milan AC,Attaquant,29,UEFA,3,2008
+462,10,Steven Gerrard,Angleterre,Angleterre,Liverpool,Attaquant,28,UEFA,1,2008
+463,11,Marcos Senna,Espagne,Espagne,Villarreal,Attaquant,16,UEFA,1,2008
+464,12,Emmanuel Adebayor,Togo,Angleterre,Arsenal,Attaquant,12,UEFA,1,2008
+465,13,Wayne Rooney,Angleterre,Angleterre,Manchester United,Attaquant,11,UEFA,1,2008
+466,14,Sergio Agüero,Argentine,Espagne,Atletico Madrid,Attaquant,10,UEFA,3,2008
+467,15,Frank Lampard,Angleterre,Angleterre,Chelsea,Attaquant,8,UEFA,1,2008
+468,16,Franck Ribery,France,Allemagne,Bayern Munich,Attaquant,7,UEFA,1,2008
+469,17,Samuel Eto'o,Cameroun,Espagne,FC Barcelone,Attaquant,6,UEFA,2,2008
+470,18,Gianluigi Buffon,Italie,Italie,Juventus FC,Attaquant,5,UEFA,1,2008
+471,19,Michael Ballack,Allemagne,Angleterre,Chelsea,Attaquant,4,UEFA,1,2008
+472,19,Cesc Fabregas,Espagne,Angleterre,Arsenal,Attaquant,4,UEFA,1,2008
+473,21,Didier Drogba,Cote d'ivoire,Angleterre,Chelsea,Attaquant,3,UEFA,1,2008
+474,21,Sergio Ramos,Espagne,France,Lens,Attaquant,3,UEFA,1,2008
+475,21,Nemanja Vidic,Serbia,Angleterre,Manchester United,Attaquant,3,UEFA,1,2008
+476,24,Edwin van der Sar,Pays-Bas,Angleterre,Manchester United,Attaquant,2,UEFA,1,2008
+477,24,Ruud van Nistelrooy,Pays-Bas,Espagne,Real Madrid,Attaquant,2,UEFA,1,2008
+478,26,Karim Benzema,France,France,Lyon,Attaquant,0,UEFA,1,2008
+479,26,Pepe,Portugal,Espagne,Real Madrid,Attaquant,0,UEFA,1,2008
+480,26,Luca Toni,Italie,Allemagne,Bayern Munich,Attaquant,0,UEFA,1,2008
+481,26,Rafael van der Vaart,Pays-Bas,Espagne,Real Madrid,Attaquant,0,UEFA,1,2008
+482,26,Yuri Zhirkov,Russie,Russie,CSKA Moscou,Attaquant,0,UEFA,1,2008

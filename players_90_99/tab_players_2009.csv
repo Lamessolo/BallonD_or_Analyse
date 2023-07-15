@@ -1,0 +1,31 @@
+Primary_Key,Rank,Nom,Selection,Country,Club,Poste,Points,Confederation,Type,Year
+483,1,Lionel Messi,Argentine,Espagne,FC Barcelone,Attaquant,473,UEFA,3,2009
+484,2,Cristiano Ronaldo,Portugal,Angleterre,Manchester United,Attaquant,233,UEFA,1,2009
+485,3,Xavi,Espagne,Espagne,FC Barcelone,Attaquant,170,UEFA,1,2009
+486,4,Andrés Iniesta,Espagne,Espagne,FC Barcelone,Attaquant,149,UEFA,1,2009
+487,5,Samuel Eto'o,Cameroun,Espagne,FC Barcelone,Attaquant,75,UEFA,2,2009
+488,6,Kaka,Bresil,Italie,Milan AC,Attaquant,58,UEFA,3,2009
+489,7,Zlatan Ibrahimovic,Suede,Italie,Inter Milan,Attaquant,50,UEFA,1,2009
+490,8,Wayne Rooney,Angleterre,Angleterre,Manchester United,Attaquant,35,UEFA,1,2009
+491,9,Didier Drogba,Cote d'ivoire,Angleterre,Chelsea,Attaquant,33,UEFA,1,2009
+492,10,Steven Gerrard,Angleterre,Angleterre,Liverpool,Attaquant,32,UEFA,1,2009
+493,11,Fernando Torres,Espagne,Angleterre,Liverpool,Attaquant,22,UEFA,1,2009
+494,12,Cesc Fabregas,Espagne,Angleterre,Arsenal,Attaquant,13,UEFA,1,2009
+495,13,Edin Dzeko,Bosnia and Herzegovina,Allemagne,Wolfsburg,Attaquant,12,UEFA,1,2009
+496,14,Ryan Giggs,Pays de Galles,Angleterre,Manchester United,Attaquant,11,UEFA,1,2009
+497,15,Thierry Henry,France,Espagne,FC Barcelone,Attaquant,9,UEFA,1,2009
+498,16,Luis Fabiano,Bresil,Espagne,Sevilla,Attaquant,8,UEFA,3,2009
+499,16,Nemanja Vidic,Serbie,Angleterre,Manchester United,Attaquant,8,UEFA,1,2009
+500,16,Iker Casillas,Espagne,Espagne,Real Madrid,Attaquant,8,UEFA,1,2009
+501,19,Diego Forlan,Uruguay,Espagne,Atletico Madrid,Attaquant,7,UEFA,3,2009
+502,20,Yoann Gourcuff,France,France,Bordeaux,Attaquant,6,UEFA,1,2009
+503,21,Andrey Arshavin,Russie,Angleterre,Arsenal,Attaquant,5,UEFA,1,2009
+504,21,Julio Cesar,Bresil,France,Lens,Attaquant,5,UEFA,3,2009
+505,21,Frank Lampard,Angleterre,Angleterre,Chelsea,Attaquant,5,UEFA,1,2009
+506,24,Maicon,Bresil,Italie,Inter Milan,Attaquant,4,UEFA,3,2009
+507,25,Diego,Bresil,Allemagne,Werder Breme,Attaquant,3,UEFA,3,2009
+508,26,David Villa,Espagne,Espagne,Valencia,Attaquant,2,UEFA,1,2009
+509,26,John Terry,Angleterre,Angleterre,Chelsea,Attaquant,2,UEFA,1,2009
+510,28,Franck Ribery,France,Allemagne,Bayern Munich,Attaquant,1,UEFA,1,2009
+511,28,Yaya Touré,Cote d'ivoire,Espagne,FC Barcelone,Attaquant,1,UEFA,1,2009
+512,30,Karim Benzema,France,France,Lyon,Attaquant,0,UEFA,1,2009

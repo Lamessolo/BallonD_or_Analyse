@@ -1,29 +1,29 @@
-Primary_Key,Rank,Nom,Selection,Country,Club,Poste,Points,Confederation,Type,Year
-105,1,Hristo Stoichkov,Bulgarie,Espagne,FC Barcelone,Attaquant,210,UEFA,1,1994
-106,2,Roberto Baggio,Italie,Italie,Juventus FC,Attaquant,136,UEFA,1,1994
-107,3,Paolo Maldini,Italie,Italie,Milan AC,Attaquant,109,UEFA,1,1994
-108,4,Gheorghe Hagi,Romania,Espagne,FC Barcelone,Attaquant,68,UEFA,1,1994
-109,4,Tomas Brolin,Suede,Italie,Parma,Attaquant,68,UEFA,1,1994
-110,6,Jurgen Klinsmann,Allemagne,Angleterre,Tottenham Hotspur,Attaquant,43,UEFA,1,1994
-111,7,Thomas Ravelli,Suede,neant,IFK Göteborg,Attaquant,21,UEFA,1,1994
-112,8,Jari Litmanen,Finland,Pays-Bas,Ajax,Attaquant,12,UEFA,1,1994
-113,9,Marcel Desailly,France,Italie,Milan AC,Attaquant,8,UEFA,1,1994
-114,9,Dejan Savicevic,Yougoslavie,Italie,Milan AC,Attaquant,8,UEFA,1,1994
-115,11,Franco Baresi,Italie,Italie,Milan AC,Attaquant,7,UEFA,1,1994
-116,11,Michel Preud'homme,Belgique,Portugal,Benfica,Attaquant,7,UEFA,1,1994
-117,13,Michael Laudrup,Danemark,Espagne,Real Madrid,Attaquant,4,UEFA,1,1994
-118,13,Yordan Letchkov,Bulgarie,Allemagne,Hamburger SV,Attaquant,4,UEFA,1,1994
-119,13,Eric Cantona,France,Angleterre,Manchester United,Attaquant,4,UEFA,1,1994
-120,16,Krasimir Balakov[notes 1],Bulgarie,Portugal,Sporting CP,Attaquant,3,UEFA,1,1994
-121,16,José Luis Caminero,Espagne,Espagne,Atletico Madrid,Attaquant,3,UEFA,1,1994
-122,16,Jean-Pierre Papin,France,Allemagne,Bayern Munich,Attaquant,3,UEFA,1,1994
-123,16,Giuseppe Signori,Italie,Italie,Lazio,Attaquant,3,UEFA,1,1994
-124,16,Lothar Matthaus,Allemagne,Allemagne,Bayern Munich,Attaquant,3,UEFA,1,1994
-125,21,Philippe Albert,Belgique,Angleterre,Newcastle United,Attaquant,2,UEFA,1,1994
-126,21,Otto Konrad,Australie,neant,Austria Salzburg,Attaquant,2,UEFA,1,1994
-127,21,Ciriaco Sforza,Suisse,Allemagne,Kaiserslautern,Attaquant,2,UEFA,1,1994
-128,24,Kennet Andersson,Suede,France,Caen,Attaquant,1,UEFA,1,1994
-129,24,Zvonimir Boban,Croatie,Italie,Milan AC,Attaquant,1,UEFA,1,1994
-130,24,Martin Dahlin,Suede,Allemagne,Borussia Mönchengladbach,Attaquant,1,UEFA,1,1994
-131,24,Pep Guardiola,Espagne,Espagne,FC Barcelone,Attaquant,1,UEFA,1,1994
-132,24,Andreas Moller,Allemagne,Allemagne,Borussia Dortmund,Attaquant,1,UEFA,1,1994
+Primary_Key,Rank,Nom,Selection,Club,Poste,Points,Confederation,Type,Year
+105,1,Hristo Stoichkov,Bulgarie,FC Barcelone,Attaquant,210,UEFA,1,1994
+106,2,Roberto Baggio,Italie,Juventus FC,Attaquant,136,UEFA,1,1994
+107,3,Paolo Maldini,Italie,Milan AC,Attaquant,109,UEFA,1,1994
+108,4,Gheorghe Hagi,Romania,FC Barcelone,Attaquant,68,UEFA,1,1994
+109,4,Tomas Brolin,Suede,Parma,Attaquant,68,UEFA,1,1994
+110,6,Jurgen Klinsmann,Allemagne,Tottenham Hotspur,Attaquant,43,UEFA,1,1994
+111,7,Thomas Ravelli,Suede,IFK Göteborg,Attaquant,21,UEFA,1,1994
+112,8,Jari Litmanen,Finland,Ajax,Attaquant,12,UEFA,1,1994
+113,9,Marcel Desailly,France,Milan AC,Attaquant,8,UEFA,1,1994
+114,9,Dejan Savicevic,Yougoslavie,Milan AC,Attaquant,8,UEFA,1,1994
+115,11,Franco Baresi,Italie,Milan AC,Attaquant,7,UEFA,1,1994
+116,11,Michel Preud'homme,Belgique,Benfica,Attaquant,7,UEFA,1,1994
+117,13,Michael Laudrup,Danemark,Real Madrid,Attaquant,4,UEFA,1,1994
+118,13,Yordan Letchkov,Bulgarie,Hamburger SV,Attaquant,4,UEFA,1,1994
+119,13,Eric Cantona,France,Manchester United,Attaquant,4,UEFA,1,1994
+120,16,Krasimir Balakov,Bulgarie,Sporting CP,Attaquant,3,UEFA,1,1994
+121,16,José Luis Caminero,Espagne,Atletico Madrid,Attaquant,3,UEFA,1,1994
+122,16,Jean-Pierre Papin,France,Bayern Munich,Attaquant,3,UEFA,1,1994
+123,16,Giuseppe Signori,Italie,Lazio,Attaquant,3,UEFA,1,1994
+124,16,Lothar Matthaus,Allemagne,Bayern Munich,Attaquant,3,UEFA,1,1994
+125,21,Philippe Albert,Belgique,Newcastle United,Attaquant,2,UEFA,1,1994
+126,21,Otto Konrad,Australie,Austria Salzburg,Attaquant,2,UEFA,1,1994
+127,21,Ciriaco Sforza,Suisse,Kaiserslautern,Attaquant,2,UEFA,1,1994
+128,24,Kennet Andersson,Suede,Caen,Attaquant,1,UEFA,1,1994
+129,24,Zvonimir Boban,Croatie,Milan AC,Attaquant,1,UEFA,1,1994
+130,24,Martin Dahlin,Suede,Borussia Mönchengladbach,Attaquant,1,UEFA,1,1994
+131,24,Pep Guardiola,Espagne,FC Barcelone,Attaquant,1,UEFA,1,1994
+132,24,Andreas Moller,Allemagne,Borussia Dortmund,Attaquant,1,UEFA,1,1994
