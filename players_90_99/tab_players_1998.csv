@@ -2,9 +2,9 @@ Primary_Key,Rank,Nom,Club,Selection,Poste,Points,Confederation,Type,Year
 235,1,Zinedine Zidane,Juventus FC,France,Attaquant,244,UEFA,1,1998
 236,2,Davor Suker,Real Madrid,Croatie,Attaquant,68,UEFA,1,1998
 237,3,Ronaldo,Inter Milan,Brazil,Attaquant,66,UEFA,1,1998
-238,4,Michael Owen,Liverpool,Anglettere,Attaquant,51,UEFA,1,1998
+238,4,Michael Owen,Liverpool,Angleterre,Attaquant,51,UEFA,1,1998
 239,5,Rivaldo,FC Barcelone,Brazil,Attaquant,45,UEFA,1,1998
-240,6,Gabriel Batistuta,Fiorentina,Argentine,Attaquant,43,UEFA,1,1998
+240,6,Gabriel Batistuta,Fiorentina,Argentine,Attaquant,43,UEFA,3,1998
 241,7,Lilian Thuram,Parma,France,Attaquant,36,UEFA,1,1998
 242,8,Edgar Davids,Juventus FC,Pays-Bas,Attaquant,28,UEFA,1,1998
 243,8,Dennis Bergkamp,Arsenal,Pays-Bas,Attaquant,28,UEFA,1,1998
@@ -26,7 +26,7 @@ Primary_Key,Rank,Nom,Club,Selection,Poste,Points,Confederation,Type,Year
 259,23,Marc Overmars,Arsenal,Pays-Bas,Attaquant,3,UEFA,1,1998
 260,26,Christian Vieri,Lazio,Italie,Attaquant,2,UEFA,1,1998
 261,26,Fernando Hierro,Real Madrid,Espagne,Attaquant,2,UEFA,1,1998
-262,28,David Beckham,Manchester United,Anglettere,Attaquant,1,UEFA,1,1998
+262,28,David Beckham,Manchester United,Angleterre,Attaquant,1,UEFA,1,1998
 263,28,Luis Enrique,FC Barcelone,Espagne,Attaquant,1,UEFA,1,1998
 264,28,Bixente Lizarazu,Bayern Munich,France,Attaquant,1,UEFA,1,1998
 265,28,Nikos Machlas,Vitesse,Grece,Attaquant,1,UEFA,1,1998

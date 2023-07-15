@@ -1,28 +1,28 @@
 Primary_Key,Rang,Nom,Club,Poste,Selection,Points,Confederation,Pourcentage_vote,Year,Type
 1,1,Cristiano Ronaldo,Real Madrid,Attaquant,Portugal,745,UEFA,"47,85 ",2016,1
-2,2,Lionel Messi,FC Barcelone,Attaquant,Argentine,316,UEFA,"20,30 ",2016,1
+2,2,Lionel Messi,FC Barcelone,Attaquant,Argentine,316,UEFA,"20,30 ",2016,3
 3,3,Antoine Griezmann,Atletico Madrid,Attaquant,France,198,UEFA,"12,72 ",2016,1
-4,4,Luis Suarez,FC Barcelone,Attaquant,Uruguay,91,UEFA,"5,84 ",2016,1
-5,5,Neymar,FC Barcelone,Attaquant,Bresil,68,UEFA,"4,37 ",2016,1
+4,4,Luis Suarez,FC Barcelone,Attaquant,Uruguay,91,UEFA,"5,84 ",2016,3
+5,5,Neymar,FC Barcelone,Attaquant,Bresil,68,UEFA,"4,37 ",2016,3
 6,6,Gareth Bale,Real Madrid,Attaquant,Pays de Galles,60,UEFA,"3,85 ",2016,1
-7,7,Riyad Mahrez,Leicester City,Attaquant,Algerie,20,UEFA,"1,28 ",2016,1
+7,7,Riyad Mahrez,Leicester City,Attaquant,Algerie,20,UEFA,"1,28 ",2016,2
 8,8,Jamie Vardy,Leicester City,Attaquant,Angleterre,11,UEFA,"0,71 ",2016,1
 9,9,Gianluigi Buffon,Juventus FC,Attaquant,Italie,8,UEFA,"0,51 ",2016,1
 10,9,Pepe,Real Madrid,Attaquant,Portugal,8,UEFA,"0,51 ",2016,1
-11,11,Pierre-Emerick Aubameyang,Borussia Dortmund,Attaquant,Gabon,7,UEFA,"0,45 ",2016,1
+11,11,Pierre-Emerick Aubameyang,Borussia Dortmund,Attaquant,Gabon,7,UEFA,"0,45 ",2016,2
 12,12,Rui Patricio,Sporting CP,Attaquant,Portugal,6,UEFA,"0,39 ",2016,1
 13,13,Zlatan Ibrahimovic,Paris Saint-Germain,Attaquant,Suede,5,UEFA,"0,32 ",2016,1
 14,14,Paul Pogba,Juventus FC,Attaquant,France,4,UEFA,"0,26 ",2016,1
-15,14,Arturo Vidal,Bayern Munich,Attaquant,Chili,4,UEFA,"0,26 ",2016,1
+15,14,Arturo Vidal,Bayern Munich,Attaquant,Chili,4,UEFA,"0,26 ",2016,3
 16,16,Robert Lewandowski,Bayern Munich,Attaquant,Pologne,3,UEFA,"0,19 ",2016,1
 17,17,Toni Kroos,Real Madrid,Attaquant,Allemagne,1,UEFA,"0,06 ",2016,1
 18,17,Luka Modric,Real Madrid,Attaquant,Croatie,1,UEFA,"0,06 ",2016,1
 19,17,Dimitri Payet,West Ham United,Attaquant,France,1,UEFA,"0,06 ",2016,1
-20,20,Sergio Aguero,Manchester City,Attaquant,Argentine,0,UEFA,0 ,2016,1
+20,20,Sergio Aguero,Manchester City,Attaquant,Argentine,0,UEFA,0 ,2016,3
 21,20,Kevin De Bruyne,Manchester City,Attaquant,Belgique,0,UEFA,0 ,2016,1
-22,20,Paulo Dybala,Juventus FC,Attaquant,Argentine,0,UEFA,0 ,2016,1
-23,20,Diego Godin,Atletico Madrid,Attaquant,Uruguay,0,UEFA,0 ,2016,1
-24,20,Gonzalo Higuain,SSC Naples,Attaquant,Argentine,0,UEFA,0 ,2016,1
+22,20,Paulo Dybala,Juventus FC,Attaquant,Argentine,0,UEFA,0 ,2016,3
+23,20,Diego Godin,Atletico Madrid,Attaquant,Uruguay,0,UEFA,0 ,2016,3
+24,20,Gonzalo Higuain,SSC Naples,Attaquant,Argentine,0,UEFA,0 ,2016,3
 25,20,Andres Iniesta,FC Barcelone,Attaquant,Espagne,0,UEFA,0 ,2016,1
 26,20,Koke,Atletico Madrid,Attaquant,Espagne,0,UEFA,0 ,2016,1
 27,20,Hugo Lloris,Tottenham Hotspur,Attaquant,France,0,UEFA,0 ,2016,1
@@ -30,8 +30,8 @@ Primary_Key,Rang,Nom,Club,Poste,Selection,Points,Confederation,Pourcentage_vote,
 29,20,Manuel Neuer,Bayern Munich,Attaquant,Allemagne,0,UEFA,0 ,2016,1
 30,20,Sergio Ramos,Real Madrid,Attaquant,Espagne,0,UEFA,0 ,2016,1
 31,1,Cristiano Ronaldo,Real Madrid,Attaquant,Portugal,946,UEFA,"33,76 ",2017,1
-32,2,Lionel Messi,FC Barcelone,Attaquant,Argentine,670,UEFA,"23,91 ",2017,1
-33,3,Neymar,FC Barcelone,Attaquant,Bresil,361,UEFA,"12,88 ",2017,1
+32,2,Lionel Messi,FC Barcelone,Attaquant,Argentine,670,UEFA,"23,91 ",2017,3
+33,3,Neymar,FC Barcelone,Attaquant,Bresil,361,UEFA,"12,88 ",2017,3
 34,4,Gianluigi Buffon,Juventus FC,Attaquant,Italie,221,UEFA,"7,89 ",2017,1
 35,5,Luka Modric,Real Madrid,Attaquant,Croatie,84,UEFA,"3,00 ",2017,1
 36,6,Sergio Ramos,Real Madrid,Attaquant,Espagne,71,UEFA,"2,53 ",2017,1
@@ -39,87 +39,87 @@ Primary_Key,Rang,Nom,Club,Poste,Selection,Points,Confederation,Pourcentage_vote,
 38,8,N'Golo Kante,Chelsea FC,Attaquant,France,47,UEFA,"1,68 ",2017,1
 39,9,Robert Lewandowski,Bayern Munich,Attaquant,Pologne,45,UEFA,"1,61 ",2017,1
 40,10,Harry Kane,Tottenham Hotspur,Attaquant,Angleterre,36,UEFA,"1,28 ",2017,1
-41,11,Edinson Cavani,Paris Saint-Germain,Attaquant,Uruguay,32,UEFA,"1,14 ",2017,1
+41,11,Edinson Cavani,Paris Saint-Germain,Attaquant,Uruguay,32,UEFA,"1,14 ",2017,3
 42,12,Isco,Real Madrid,Attaquant,Espagne,28,UEFA,"1,00 ",2017,1
-43,13,Luis Suarez,FC Barcelone,Attaquant,Uruguay,27,UEFA,"0,96 ",2017,1
+43,13,Luis Suarez,FC Barcelone,Attaquant,Uruguay,27,UEFA,"0,96 ",2017,3
 44,14,Kevin De Bruyne,Manchester City,Attaquant,Belgique,25,UEFA,"0,89 ",2017,1
-45,15,Paulo Dybala,Juventus FC,Attaquant,Argentine,23,UEFA,"0,82 ",2017,1
-46,16,Marcelo,Real Madrid,Attaquant,Bresil,21,UEFA,"0,75 ",2017,1
+45,15,Paulo Dybala,Juventus FC,Attaquant,Argentine,23,UEFA,"0,82 ",2017,3
+46,16,Marcelo,Real Madrid,Attaquant,Bresil,21,UEFA,"0,75 ",2017,3
 47,17,Toni Kroos,Real Madrid,Attaquant,Allemagne,20,UEFA,"0,71 ",2017,1
 48,18,Antoine Griezmann,Atletico Madrid,Attaquant,France,17,UEFA,"0,61 ",2017,1
 49,19,Eden Hazard,Chelsea FC,Attaquant,Belgique,16,UEFA,"0,57 ",2017,1
 50,20,David de Gea,Manchester United,Attaquant,Espagne,15,UEFA,"0,54 ",2017,1
-51,21,Pierre-Emerick Aubameyang,Borussia Dortmund,Attaquant,Gabon,14,UEFA,"0,50 ",2017,1
+51,21,Pierre-Emerick Aubameyang,Borussia Dortmund,Attaquant,Gabon,14,UEFA,"0,50 ",2017,2
 52,21,Leonardo Bonucci,Juventus FC,Attaquant,Italie,14,UEFA,"0,50 ",2017,1
-53,23,Sadio Mane,Liverpool FC,Attaquant,Senegal,10,UEFA,"0,36 ",2017,1
-54,24,Radamel Falcao,AS Monaco,Attaquant,Colombie,9,UEFA,"0,32 ",2017,1
+53,23,Sadio Mane,Liverpool FC,Attaquant,Senegal,10,UEFA,"0,36 ",2017,2
+54,24,Radamel Falcao,AS Monaco,Attaquant,Colombie,9,UEFA,"0,32 ",2017,3
 55,25,Karim Benzema,Real Madrid,Attaquant,France,7,UEFA,"0,25 ",2017,1
 56,26,Jan Oblak,Atletico Madrid,Attaquant,Slovenie,4,UEFA,"0,14 ",2017,1
 57,27,Mats Hummels,Bayern Munich,Attaquant,Allemagne,3,UEFA,"0,11 ",2017,1
 58,28,Edin Dzeko,AS Roma,Attaquant,Bosnie-Herzegovine,2,UEFA,"0,07 ",2017,1
-59,29,Philippe Coutinho,Liverpool FC,Attaquant,Bresil,0,UEFA,0 ,2017,1
+59,29,Philippe Coutinho,Liverpool FC,Attaquant,Bresil,0,UEFA,0 ,2017,3
 60,29,Dries Mertens,SSC Naples,Attaquant,Belgique,0,UEFA,0 ,2017,1
 61,1,Luka Modric,Real Madrid,Milieu de terrain,Croatie,753,UEFA,"26,14 ",2018,1
 62,2,Cristiano Ronaldo,Real Madrid,Attaquant,Portugal,476,UEFA,"16,52 ",2018,1
 63,3,Antoine Griezmann,Atletico de Madrid,Attaquant,France,414,UEFA,"14,37 ",2018,1
 64,4,Kylian Mbappe,Paris Saint-Germain,Attaquant,France,347,UEFA,"12,04 ",2018,1
-65,5,Lionel Messi,FC Barcelone,Attaquant,Argentine,280,UEFA,"9,72 ",2018,1
+65,5,Lionel Messi,FC Barcelone,Attaquant,Argentine,280,UEFA,"9,72 ",2018,3
 66,6,Mohamed Salah,Liverpool FC,Attaquant,Egypte,188,UEFA,"6,53 ",2018,1
 67,7,Raphael Varane,Real Madrid,Defenseur,France,121,UEFA,"4,20 ",2018,1
 68,8,Eden Hazard,Chelsea FC,Milieu de terrain Attaquant,Belgique,119,UEFA,"4,13 ",2018,1
 69,9,Kevin De Bruyne,Manchester City,Milieu de terrain,Belgique,29,UEFA,"1,01 ",2018,1
 70,10,Harry Kane,Tottenham Hotspur,Attaquant,Angleterre,25,UEFA,"0,87 ",2018,1
 71,11,N'Golo Kante,Chelsea FC,Milieu de terrain,France,24,UEFA,"0,83 ",2018,1
-72,12,Neymar,Paris Saint-Germain,Attaquant,Bresil,19,UEFA,"0,66 ",2018,1
-73,13,Luis Suarez,FC Barcelone,Attaquant,Uruguay,17,UEFA,"0,59 ",2018,1
+72,12,Neymar,Paris Saint-Germain,Attaquant,Bresil,19,UEFA,"0,66 ",2018,3
+73,13,Luis Suarez,FC Barcelone,Attaquant,Uruguay,17,UEFA,"0,59 ",2018,3
 74,14,Thibaut Courtois,Chelsea FC,Gardien de but,Belgique,12,UEFA,"0,42 ",2018,1
 75,15,Paul Pogba,Manchester United,Milieu de terrain,France,9,UEFA,"0,31 ",2018,1
-76,16,Sergio Aguero,Manchester City,Attaquant,Argentine,7,UEFA,"0,24 ",2018,1
+76,16,Sergio Aguero,Manchester City,Attaquant,Argentine,7,UEFA,"0,24 ",2018,3
 77,17,Gareth Bale,Real Madrid,Attaquant,Pays de Galles,6,UEFA,"0,21 ",2018,1
 78,17,Karim Benzema,Real Madrid,Attaquant,France,6,UEFA,"0,21 ",2018,1
-79,19,Roberto Firmino,Liverpool FC,Attaquant,Bresil,4,UEFA,"0,14 ",2018,1
+79,19,Roberto Firmino,Liverpool FC,Attaquant,Bresil,4,UEFA,"0,14 ",2018,3
 80,19,Ivan Rakitic,FC Barcelone,Milieu de terrain,Croatie,4,UEFA,"0,14 ",2018,1
 81,19,Sergio Ramos,Real Madrid,Defenseur,Espagne,4,UEFA,"0,14 ",2018,1
-82,22,Edinson Cavani,Paris Saint-Germain,Attaquant,Uruguay,3,UEFA,"0,10 ",2018,1
-83,22,Sadio Mane,Liverpool FC,Attaquant,Senegal,3,UEFA,"0,10",2018,1
-84,22,Marcelo,Real Madrid,Defenseur,Bresil,3,UEFA,"0,10 ",2018,1
-85,25,Alisson,AS Rome,Gardien de but,Bresil,2,UEFA,"0,07 ",2018,1
+82,22,Edinson Cavani,Paris Saint-Germain,Attaquant,Uruguay,3,UEFA,"0,10 ",2018,3
+83,22,Sadio Mane,Liverpool FC,Attaquant,Senegal,3,UEFA,"0,10",2018,2
+84,22,Marcelo,Real Madrid,Defenseur,Bresil,3,UEFA,"0,10 ",2018,3
+85,25,Alisson,AS Rome,Gardien de but,Bresil,2,UEFA,"0,07 ",2018,3
 86,25,Mario Mandzukic,Juventus FC,Attaquant,Croatie,2,UEFA,"0,07 ",2018,1
 87,25,Jan Oblak,Atletico de Madrid,Gardien de but,Slovenie,2,UEFA,"0,07 ",2018,1
-88,28,Diego Godin,Atletico de Madrid,Defenseur,Uruguay,1,UEFA,"0,03 ",2018,1
+88,28,Diego Godin,Atletico de Madrid,Defenseur,Uruguay,1,UEFA,"0,03 ",2018,3
 89,29,Isco,Real Madrid,Milieu de terrain,Espagne,0,UEFA,0 ,2018,1
 90,29,Hugo Lloris,Tottenham Hotspur,Gardien de but,France,0,UEFA,0 ,2018,1
-91,1,Lionel Messi,FC Barcelone,Attaquant,Argentine,686,UEFA,"24,36 ",2019,1
+91,1,Lionel Messi,FC Barcelone,Attaquant,Argentine,686,UEFA,"24,36 ",2019,3
 92,2,Virgil van Dijk,Liverpool FC,Defenseur,Pays-Bas,679,UEFA,"24,11 ",2019,1
 93,3,Cristiano Ronaldo,Juventus FC,Attaquant,Portugal,476,UEFA,"16,90 ",2019,1
-94,4,Sadio Mane,Liverpool FC,Attaquant,Senegal,347,UEFA,"12,32 ",2019,1
+94,4,Sadio Mane,Liverpool FC,Attaquant,Senegal,347,UEFA,"12,32 ",2019,2
 95,5,Mohamed Salah,Liverpool FC,Attaquant,Egypte,178,UEFA,"6,32 ",2019,1
 96,6,Kylian Mbappe,Paris Saint-Germain,Attaquant,France,89,UEFA,"3,16 ",2019,1
-97,7,Alisson,Liverpool FC,Gardien de but,Bresil,67,UEFA,"2,38 ",2019,1
+97,7,Alisson,Liverpool FC,Gardien de but,Bresil,67,UEFA,"2,38 ",2019,3
 98,8,Robert Lewandowski,Bayern Munich,Attaquant,Pologne,44,UEFA,"1,56 ",2019,1
 99,9,Bernardo Silva,Manchester City,Milieu de terrain Attaquant,Portugal,41,UEFA,"1,46 ",2019,1
-100,10,Riyad Mahrez,Manchester City,Attaquant,Algerie,33,UEFA,"1,17 ",2019,1
+100,10,Riyad Mahrez,Manchester City,Attaquant,Algerie,33,UEFA,"1,17 ",2019,2
 101,11,Frenkie de Jong,Ajax Amsterdam,Milieu de terrain,Pays-Bas,31,UEFA,"1,10 ",2019,1
 102,12,Raheem Sterling,Manchester City,Attaquant,Angleterre,30,UEFA,"1,07 ",2019,1
 103,13,Eden Hazard,Chelsea FC,Milieu de terrain Attaquant,Belgique,25,UEFA,"0,89 ",2019,1
 104,14,Kevin De Bruyne,Manchester City,Milieu de terrain,Belgique,14,UEFA,"0,50 ",2019,1
 105,15,Matthijs de Ligt,Ajax Amsterdam,Defenseur,Pays-Bas,13,UEFA,"0,46 ",2019,1
-106,16,Sergio Aguero,Manchester City,Attaquant,Argentine,12,UEFA,"0,43 ",2019,1
-107,17,Roberto Firmino,Liverpool FC,Attaquant,Bresil,11,UEFA,"0,39 ",2019,1
+106,16,Sergio Aguero,Manchester City,Attaquant,Argentine,12,UEFA,"0,43 ",2019,3
+107,17,Roberto Firmino,Liverpool FC,Attaquant,Bresil,11,UEFA,"0,39 ",2019,3
 108,18,Antoine Griezmann,Atletico de Madrid,Milieu de terrain Attaquant,France,9,UEFA,"0,32 ",2019,1
 109,19,Trent Alexander-Arnold,Liverpool FC,Defenseur,Angleterre,8,UEFA,"0,28 ",2019,1
-110,20,Pierre-Emerick Aubameyang,Arsenal FC,Attaquant,Gabon,5,UEFA,"0,18 ",2019,1
+110,20,Pierre-Emerick Aubameyang,Arsenal FC,Attaquant,Gabon,5,UEFA,"0,18 ",2019,2
 111,20,Dusan Tadic,Ajax Amsterdam,Milieu de terrain Attaquant,Serbie,5,UEFA,"0,18 ",2019,1
 112,22,Son Heung-min,Tottenham Hotspur,Attaquant,Coree du Sud,4,UEFA,"0,14 ",2019,1
 113,23,Hugo Lloris,Tottenham Hotspur,Gardien de but,France,3,UEFA,"0,11 ",2019,1
-114,24,Kalidou Koulibaly,SSC Naples,Defenseur,Senegal,2,UEFA,"0,07 ",2019,1
+114,24,Kalidou Koulibaly,SSC Naples,Defenseur,Senegal,2,UEFA,"0,07 ",2019,2
 115,24,Marc-Andre ter Stegen,FC Barcelone,Gardien de but,Allemagne,2,UEFA,"0,07 ",2019,1
 116,26,Karim Benzema,Real Madrid,Attaquant,France,1,UEFA,"0,04 ",2019,1
 117,26,Georginio Wijnaldum,Liverpool FC,Milieu de terrain,Pays-Bas,1,UEFA,"0,04 ",2019,1
 118,28,Joao Felix,Benfica Lisbonne,Milieu de terrain,Portugal,0,UEFA,0 ,2019,1
-119,28,Marquinhos,Paris Saint-Germain,Defenseur Milieu de terrain,Bresil,0,UEFA,0 ,2019,1
+119,28,Marquinhos,Paris Saint-Germain,Defenseur Milieu de terrain,Bresil,0,UEFA,0 ,2019,3
 120,28,Donny van de Beek,Ajax Amsterdam,Milieu de terrain,Pays-Bas,0,UEFA,0 ,2019,1
-121,1,Lionel Messi,FC Barcelone,Attaquant,Argentine,613,UEFA,"22,54 ",2021,1
+121,1,Lionel Messi,FC Barcelone,Attaquant,Argentine,613,UEFA,"22,54 ",2021,3
 122,2,Robert Lewandowski,Bayern Munich,Attaquant,Pologne,580,UEFA,"21,32 ",2021,1
 123,3,Jorginho,Chelsea FC,Milieu de terrain,Italie,460,UEFA,"16,91 ",2021,1
 124,4,Karim Benzema,Real Madrid,Attaquant,France,239,UEFA,"8,79 ",2021,1
@@ -134,13 +134,13 @@ Primary_Key,Rang,Nom,Club,Poste,Selection,Points,Confederation,Pourcentage_vote,
 133,13,Giorgio Chiellini,Juventus FC,Defenseur,Italie,26,UEFA,"0,96 ",2021,1
 134,14,Leonardo Bonucci,Juventus FC,Defenseur,Italie,18,UEFA,"0,66 ",2021,1
 135,15,Raheem Sterling,Manchester City,Attaquant,Angleterre,10,UEFA,"0,37 ",2021,1
-136,16,Neymar,Paris SG,Attaquant,Bresil,9,UEFA,"0,33 ",2021,1
-137,17,Luis Suarez,Atletico de Madrid,Attaquant,Uruguay,8,UEFA,"0,29 ",2021,1
+136,16,Neymar,Paris SG,Attaquant,Bresil,9,UEFA,"0,33 ",2021,3
+137,17,Luis Suarez,Atletico de Madrid,Attaquant,Uruguay,8,UEFA,"0,29 ",2021,3
 138,18,Simon Kjaer,AC Milan,Defenseur,Danemark,8,UEFA,"0,29 ",2021,1
 139,19,Mason Mount,Chelsea FC,Milieu de terrain,Angleterre,7,UEFA,"0,26 ",2021,1
-140,20,Riyad Mahrez,Manchester City,Attaquant,Algerie,7,UEFA,"0,26 ",2021,1
+140,20,Riyad Mahrez,Manchester City,Attaquant,Algerie,7,UEFA,"0,26 ",2021,2
 141,21,Bruno Fernandes,Manchester United,Milieu de terrain,Portugal,6,UEFA,"0,22 ",2021,1
-142,21,Lautaro Martinez,Inter Milan,Attaquant,Argentine,6,UEFA,"0,22 ",2021,1
+142,21,Lautaro Martinez,Inter Milan,Attaquant,Argentine,6,UEFA,"0,22 ",2021,3
 143,23,Harry Kane,Tottenham Hotspur,Attaquant,Angleterre,4,UEFA,"0,15 ",2021,1
 144,24,Pedri,FC Barcelone,Milieu de terrain,Espagne,3,UEFA,"0,11 ",2021,1
 145,25,Phil Foden,Manchester City,Milieu de terrain,Angleterre,2,UEFA,"0,07 ",2021,1
@@ -150,24 +150,24 @@ Primary_Key,Rang,Nom,Club,Poste,Selection,Points,Confederation,Pourcentage_vote,
 149,29,Cesar  Azpilicueta,Chelsea FC,Defenseur,Espagne,0,UEFA,0 ,2021,1
 150,29,Luka Modric,Real Madrid,Milieu de terrain,Croatie,0,UEFA,0 ,2021,1
 151,1,Karim Benzema,Real Madrid,Attaquant,France,549,UEFA,"36,90 ",2022,1
-152,2,Sadio Mane,Liverpool FC,Attaquant,Senegal,193,UEFA,"12,97 ",2022,1
+152,2,Sadio Mane,Liverpool FC,Attaquant,Senegal,193,UEFA,"12,97 ",2022,2
 153,3,Kevin De Bruyne,Manchester City,Milieu de terrain,Belgique,175,UEFA,"11,76 ",2022,1
 154,4,Robert Lewandowski,Bayern Munich,Attaquant,Pologne,170,UEFA,"11,42 ",2022,1
 155,5,Mohamed Salah,Liverpool FC,Attaquant,Egypte,116,UEFA,"7,80 ",2022,1
 156,6,Kylian Mbappe,Paris Saint-Germain,Attaquant,France,85,UEFA,"5,71 ",2022,1
 157,7,Thibaut Courtois,Real Madrid,Gardien de but,Belgique,82,UEFA,"5,51 ",2022,1
-158,8,Vinicius Junior,Real Madrid,Attaquant,Bresil,61,UEFA,"4,10 ",2022,1
+158,8,Vinicius Junior,Real Madrid,Attaquant,Bresil,61,UEFA,"4,10 ",2022,3
 159,9,Luka Modric,Real Madrid,Milieu de terrain,Croatie,20,UEFA,"1,34 ",2022,1
 160,10,Erling Haaland,Borussia Dortmund,Attaquant,Norvege,18,UEFA,"1,21 ",2022,1
 161,11,Son Heung-min,Tottenham Hotspur,Attaquant,Coree du Sud,5,UEFA,"0,34 ",2022,1
-162,12,Riyad Mahrez,Manchester City,Milieu de terrain Attaquant,Algerie,4,UEFA,"0,27 ",2022,1
+162,12,Riyad Mahrez,Manchester City,Milieu de terrain Attaquant,Algerie,4,UEFA,"0,27 ",2022,2
 163,13,Sebastien Haller,Ajax Amsterdam,Attaquant,Cote d’Ivoire,2,UEFA,"0,13 ",2022,1
-164,14,Fabinho,Liverpool FC,Milieu de terrain,Bresil,2,UEFA,"0,13 ",2022,1
+164,14,Fabinho,Liverpool FC,Milieu de terrain,Bresil,2,UEFA,"0,13 ",2022,3
 165,14,Rafael Leao,Milan AC,Attaquant,Portugal,2,UEFA,"0,13 ",2022,1
 166,16,Virgil van Dijk,Liverpool FC,Defenseur,Pays-Bas,1,UEFA,"0,07 ",2022,1
-167,17,Casemiro,Real Madrid,Milieu de terrain,Bresil,1,UEFA,"0,07 ",2022,1
+167,17,Casemiro,Real Madrid,Milieu de terrain,Bresil,1,UEFA,"0,07 ",2022,3
 168,17,Dusan Vlahovic,FC Porto,Attaquant,Serbie,1,UEFA,"0,07 ",2022,1
-169,17,Luis Diaz,FC Porto Liverpool FC,Attaquant,Colombie,1,UEFA,"0,07 ",2022,1
+169,17,Luis Diaz,FC Porto Liverpool FC,Attaquant,Colombie,1,UEFA,"0,07 ",2022,3
 170,20,Cristiano Ronaldo,Manchester United,Attaquant,Portugal,0,UEFA,0 ,2022,1
 171,21,Harry Kane,Tottenham Hotspur,Attaquant,Angleterre,0,UEFA,0 ,2022,1
 172,22,Trent Alexander-Arnold,Liverpool FC,Defenseur,Angleterre,0,UEFA,0 ,2022,1
@@ -176,6 +176,6 @@ Primary_Key,Rang,Nom,Club,Poste,Selection,Points,Confederation,Pourcentage_vote,
 175,25,Joshua Kimmich,Bayern Munich,Defenseur Milieu de terrain,Allemagne,0,UEFA,0 ,2022,1
 176,25,Mike Maignan,Milan AC,Gardien de but,France,0,UEFA,0 ,2022,1
 177,25,Christopher Nkunku,RB Leipzig,Attaquant,France,0,UEFA,0 ,2022,1
-178,25,Darwin Nunez,Benfica Lisbonne,Attaquant,Uruguay,0,UEFA,0 ,2022,1
+178,25,Darwin Nunez,Benfica Lisbonne,Attaquant,Uruguay,0,UEFA,0 ,2022,3
 179,25,Joao Cancelo,Manchester City,Defenseur,Portugal,0,UEFA,0 ,2022,1
 180,25,Antonio Rudiger,Chelsea FC,Defenseur,Allemagne,0,UEFA,0 ,2022,1

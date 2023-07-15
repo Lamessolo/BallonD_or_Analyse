@@ -1,23 +1,23 @@
 Primary_Key,Rang,Nom,Club,Selection,Poste,Confederation,Points,Pourcentage_vote,Year,Type
 151,1,Karim Benzema,Real Madrid,France,Attaquant,UEFA,549,"36,90 ",2022,1
-152,2,Sadio Mane,Liverpool FC,Senegal,Attaquant,UEFA,193,"12,97 ",2022,1
+152,2,Sadio Mane,Liverpool FC,Senegal,Attaquant,UEFA,193,"12,97 ",2022,2
 153,3,Kevin De Bruyne,Manchester City,Belgique,Milieu de terrain,UEFA,175,"11,76 ",2022,1
 154,4,Robert Lewandowski,Bayern Munich,Pologne,Attaquant,UEFA,170,"11,42 ",2022,1
 155,5,Mohamed Salah,Liverpool FC,Egypte,Attaquant,UEFA,116,"7,80 ",2022,1
 156,6,Kylian Mbappe,Paris Saint-Germain,France,Attaquant,UEFA,85,"5,71 ",2022,1
 157,7,Thibaut Courtois,Real Madrid,Belgique,Gardien de but,UEFA,82,"5,51 ",2022,1
-158,8,Vinicius Junior,Real Madrid,Bresil,Attaquant,UEFA,61,"4,10 ",2022,1
+158,8,Vinicius Junior,Real Madrid,Bresil,Attaquant,UEFA,61,"4,10 ",2022,3
 159,9,Luka Modric,Real Madrid,Croatie,Milieu de terrain,UEFA,20,"1,34 ",2022,1
 160,10,Erling Haaland,Borussia Dortmund,Norvege,Attaquant,UEFA,18,"1,21 ",2022,1
 161,11,Son Heung-min,Tottenham Hotspur,Coree du Sud,Attaquant,UEFA,5,"0,34 ",2022,1
-162,12,Riyad Mahrez,Manchester City,Algerie,Milieu de terrain Attaquant,UEFA,4,"0,27 ",2022,1
+162,12,Riyad Mahrez,Manchester City,Algerie,Milieu de terrain Attaquant,UEFA,4,"0,27 ",2022,2
 163,13,Sebastien Haller,Ajax Amsterdam,Cote d’Ivoire,Attaquant,UEFA,2,"0,13 ",2022,1
-164,14,Fabinho,Liverpool FC,Bresil,Milieu de terrain,UEFA,2,"0,13 ",2022,1
+164,14,Fabinho,Liverpool FC,Bresil,Milieu de terrain,UEFA,2,"0,13 ",2022,3
 165,14,Rafael Leao,Milan AC,Portugal,Attaquant,UEFA,2,"0,13 ",2022,1
 166,16,Virgil van Dijk,Liverpool FC,Pays-Bas,Defenseur,UEFA,1,"0,07 ",2022,1
-167,17,Casemiro,Real Madrid,Bresil,Milieu de terrain,UEFA,1,"0,07 ",2022,1
+167,17,Casemiro,Real Madrid,Bresil,Milieu de terrain,UEFA,1,"0,07 ",2022,3
 168,17,Dusan Vlahovic,FC Porto,Serbie,Attaquant,UEFA,1,"0,07 ",2022,1
-169,17,Luis Diaz,FC Porto Liverpool FC,Colombie,Attaquant,UEFA,1,"0,07 ",2022,1
+169,17,Luis Diaz,FC Porto Liverpool FC,Colombie,Attaquant,UEFA,1,"0,07 ",2022,3
 170,20,Cristiano Ronaldo,Manchester United,Portugal,Attaquant,UEFA,0,0 ,2022,1
 171,21,Harry Kane,Tottenham Hotspur,Angleterre,Attaquant,UEFA,0,0 ,2022,1
 172,22,Trent Alexander-Arnold,Liverpool FC,Angleterre,Defenseur,UEFA,0,0 ,2022,1
@@ -26,6 +26,6 @@ Primary_Key,Rang,Nom,Club,Selection,Poste,Confederation,Points,Pourcentage_vote,
 175,25,Joshua Kimmich,Bayern Munich,Allemagne,Defenseur Milieu de terrain,UEFA,0,0 ,2022,1
 176,25,Mike Maignan,Milan AC,France,Gardien de but,UEFA,0,0 ,2022,1
 177,25,Christopher Nkunku,RB Leipzig,France,Attaquant,UEFA,0,0 ,2022,1
-178,25,Darwin Nunez,Benfica Lisbonne,Uruguay,Attaquant,UEFA,0,0 ,2022,1
+178,25,Darwin Nunez,Benfica Lisbonne,Uruguay,Attaquant,UEFA,0,0 ,2022,3
 179,25,Joao Cancelo,Manchester City,Portugal,Defenseur,UEFA,0,0 ,2022,1
 180,25,Antonio Rudiger,Chelsea FC,Allemagne,Defenseur,UEFA,0,0 ,2022,1

@@ -18,10 +18,10 @@ Primary_Key,Rank,Nom,Club,Selection,Poste,Points,Confederation,Type,Year
 215,17,Didier Deschamps,Juventus FC,France,Attaquant,10,UEFA,1,1997
 216,17,Clarence Seedorf,Real Madrid,Pays-Bas,Attaquant,10,UEFA,1,1997
 217,19,Alessandro Del Piero,Juventus FC,Italie,Attaquant,9,UEFA,1,1997
-218,19,Alan Shearer,Newcastle United,Anglettere,Attaquant,9,UEFA,1,1997
-219,19,David Beckham,Manchester United,Anglettere,Attaquant,9,UEFA,1,1997
+218,19,Alan Shearer,Newcastle United,Angleterre,Attaquant,9,UEFA,1,1997
+219,19,David Beckham,Manchester United,Angleterre,Attaquant,9,UEFA,1,1997
 220,22,Fernando Hierro,Real Madrid,Espagne,Attaquant,8,UEFA,1,1997
-221,23,Gabriel Batistuta,Fiorentina,Argentine,Attaquant,7,UEFA,1,1997
+221,23,Gabriel Batistuta,Fiorentina,Argentine,Attaquant,7,UEFA,3,1997
 222,24,Olaf Thon,Schalke 04,Allemagne,Attaquant,6,UEFA,1,1997
 223,25,Juninho,Atletico Madrid,Brazil,Attaquant,5,UEFA,1,1997
 224,25,Paulo Sousa,Borussia Dortmund,Portugal,Attaquant,5,UEFA,1,1997
@@ -30,7 +30,7 @@ Primary_Key,Rank,Nom,Club,Selection,Poste,Points,Confederation,Type,Year
 227,29,Oliver Bierhoff,Udinese,Allemagne,Attaquant,3,UEFA,1,1997
 228,29,Angelo Peruzzi,Juventus FC,Italie,Attaquant,3,UEFA,1,1997
 229,29,Rai,Paris Saint-Germain,Brazil,Attaquant,3,UEFA,1,1997
-230,32,Victor Ikpeba,Monaco,Nigeria,Attaquant,2,UEFA,1,1997
+230,32,Victor Ikpeba,Monaco,Nigeria,Attaquant,2,UEFA,2,1997
 231,33,Laurent Blanc,Marseille,France,Attaquant,1,UEFA,1,1997
 232,33,Ciro Ferrara,Juventus FC,Italie,Attaquant,1,UEFA,1,1997
 233,33,Rivaldo,FC Barcelone,Brazil,Attaquant,1,UEFA,1,1997

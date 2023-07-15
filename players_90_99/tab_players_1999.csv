@@ -1,12 +1,12 @@
 Primary_Key,Rank,Nom,Club,Selection,Poste,Points,Confederation,Type,Year
 266,1,Rivaldo,FC Barcelone,Brazil,Attaquant,219,UEFA,1,1999
-267,2,David Beckham,Manchester United,Anglettere,Attaquant,154,UEFA,1,1999
+267,2,David Beckham,Manchester United,Angleterre,Attaquant,154,UEFA,1,1999
 268,3,Andriy Shevchenko,Milan AC,Ukraine,Attaquant,64,UEFA,1,1999
-269,4,Gabriel Batistuta,Fiorentina,Argentine,Attaquant,48,UEFA,1,1999
+269,4,Gabriel Batistuta,Fiorentina,Argentine,Attaquant,48,UEFA,3,1999
 270,5,Luis Figo,FC Barcelone,Portugal,Attaquant,38,UEFA,1,1999
 271,6,Roy Keane,Manchester United,Irelande,Attaquant,36,UEFA,1,1999
 272,7,Christian Vieri,Lazio,Italie,Attaquant,33,UEFA,1,1999
-273,8,Juan Sebastian Veron,Lazio,Argentine,Attaquant,30,UEFA,1,1999
+273,8,Juan Sebastian Veron,Lazio,Argentine,Attaquant,30,UEFA,3,1999
 274,9,Raul,Real Madrid,Espagne,Attaquant,27,UEFA,1,1999
 275,10,Lothar Matthäus,Bayern Munich,Allemagne,Attaquant,16,UEFA,1,1999
 276,11,Dwight Yorke,Manchester United,Trinidad and Tobago,Attaquant,14,UEFA,1,1999
@@ -21,12 +21,12 @@ Primary_Key,Rank,Nom,Club,Selection,Poste,Points,Confederation,Type,Year
 285,19,Oliver Bierhoff,Milan AC,Allemagne,Attaquant,4,UEFA,1,1999
 286,21,Mario Basler,Bayern Munich,Allemagne,Attaquant,3,UEFA,1,1999
 287,21,Ryan Giggs,Manchester United,Pays de Galles,Attaquant,3,UEFA,1,1999
-288,23,Hernan Crespo,Parma,Argentine,Attaquant,2,UEFA,1,1999
-289,23,Nwankwo Kanu,Arsenal,Nigeria,Attaquant,2,UEFA,1,1999
+288,23,Hernan Crespo,Parma,Argentine,Attaquant,2,UEFA,3,1999
+289,23,Nwankwo Kanu,Arsenal,Nigeria,Attaquant,2,UEFA,2,1999
 290,23,Ronaldo,Inter Milan,Brazil,Attaquant,2,UEFA,1,1999
-291,26,Andy Cole,Manchester United,Anglettere,Attaquant,1,UEFA,1,1999
+291,26,Andy Cole,Manchester United,Angleterre,Attaquant,1,UEFA,1,1999
 292,26,Edgar Davids,Juventus FC,Pays-Bas,Attaquant,1,UEFA,1,1999
 293,26,David Ginola,Tottenham Hotspur,France,Attaquant,1,UEFA,1,1999
-294,26,Claudio Lopez,Valencia,Argentine,Attaquant,1,UEFA,1,1999
+294,26,Claudio Lopez,Valencia,Argentine,Attaquant,1,UEFA,3,1999
 295,26,Roberto Carlos,Real Madrid,Brazil,Attaquant,1,UEFA,1,1999
 296,26,Marcelo Salas,Lazio,Chile,Attaquant,1,UEFA,1,1999

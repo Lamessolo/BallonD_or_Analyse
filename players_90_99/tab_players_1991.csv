@@ -4,19 +4,19 @@ Primary_Key,Rank,Nom,Selection,Club,Poste,Points,Year,Confederation,Type
 26,2,Darko Pancev,Yougoslavie,Red Star Belgrade,Attaquant,42,1991,UEFA,1
 27,2,Lothar Matthaus,Allemagne,Inter Milan,Attaquant,42,1991,UEFA,1
 28,5,Robert Prosinecki,Yougoslavie,Red Star Belgrade  Real Madrid,Attaquant,34,1991,UEFA,1
-29,6,Gary Lineker,Anglettere,Tottenham Hotspur,Attaquant,33,1991,UEFA,1
+29,6,Gary Lineker,Angleterre,Tottenham Hotspur,Attaquant,33,1991,UEFA,1
 30,7,Gianluca Vialli,Italie,Sampdoria,Attaquant,18,1991,UEFA,1
 31,8,Miodrag Belodedici,Roumanie,Red Star Belgrade,Attaquant,15,1991,UEFA,1
 32,9,Mark Hughes,Pays de Galles,Manchester United,Attaquant,12,1991,UEFA,1
-33,10,Chris Waddle,Anglettere,Marseille,Attaquant,11,1991,UEFA,1
-34,11,Michael Laudrup,Danemark,Barcelona,Attaquant,7,1991,UEFA,1
+33,10,Chris Waddle,Angleterre,Marseille,Attaquant,11,1991,UEFA,1
+34,11,Michael Laudrup,Danemark,Barcelone,Attaquant,7,1991,UEFA,1
 35,12,Rudi Voller,Allemagne,Roma,Attaquant,5,1991,UEFA,1
-36,13,Txiki Begiristain,Espagne,Barcelona,Attaquant,3,1991,UEFA,1
+36,13,Txiki Begiristain,Espagne,Barcelone,Attaquant,3,1991,UEFA,1
 37,13,Stephane Chapuisat,Suisse,Borussia Dortmund,Attaquant,3,1991,UEFA,1
 38,13,Bruno Martini,France,Auxerre,Attaquant,3,1991,UEFA,1
 39,13,Paul McGrath,Irelande,Aston Villa,Attaquant,3,1991,UEFA,1
 40,13,Dean Saunders,Pays de Galles,Derby County  Liverpool,Attaquant,3,1991,UEFA,1
-41,13,Hristo Stoichkov,Bulgarie,Barcelona,Attaquant,3,1991,UEFA,1
+41,13,Hristo Stoichkov,Bulgarie,Barcelone,Attaquant,3,1991,UEFA,1
 42,19,Roberto Mancini,Italie,Sampdoria,Attaquant,2,1991,UEFA,1
 43,19,Marco van Basten,Pays-Bas,Milan AC,Attaquant,2,1991,UEFA,1
 44,21,Guido Buchwald,Allemagne,VfB Stuttgart,Attaquant,1,1991,UEFA,1
@@ -25,8 +25,8 @@ Primary_Key,Rank,Nom,Selection,Club,Poste,Points,Year,Confederation,Type
 47,21,Ruud Gullit,Pays-Bas,Milan AC,Attaquant,1,1991,UEFA,1
 48,21,Gheorghe Hagi,Roumanie,Real Madrid,Attaquant,1,1991,UEFA,1
 49,21,Alexei Mikhailichenko,Soviet Union,Rangers,Attaquant,1,1991,UEFA,1
-50,21,Gary Pallister,Anglettere,Manchester United,Attaquant,1,1991,UEFA,1
+50,21,Gary Pallister,Angleterre,Manchester United,Attaquant,1,1991,UEFA,1
 51,21,Dimitris Saravakos,Grece,Panathinaikos,Attaquant,1,1991,UEFA,1
 52,21,Gianluca Pagliuca,Italie,Sampdoria,Attaquant,1,1991,UEFA,1
 53,21,Guy Hellers,Luxembourg,Standard Liege,Attaquant,1,1991,UEFA,1
-54,21,Laurent Blanc,France,Napoli,Attaquant,1,1991,UEFA,1
+54,21,Laurent Blanc,France,Naple,Attaquant,1,1991,UEFA,1
