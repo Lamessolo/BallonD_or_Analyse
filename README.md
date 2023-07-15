@@ -9,7 +9,7 @@ Mes differentes missions seront:
 1.<h1>Collecte des données :</h1>
 Collecter les données historiques des joueurs nominés et primés par le Ballon d'Or. 
 Cela inclurait les noms des joueurs, les années de nomination et de victoire, ainsi que les clubs et les ligues dans lesquelles ils ont joué.
-Collecter les données économiques liées aux clubs et aux ligues, telles que les revenus, les dépenses, les valeurs des transferts, les audiences télévisées, etc.
+Collecter les données économiques liées aux clubs et aux ligues, telles que les revenus, les dépenses, les valeurs des transferts, les audiences télévisées,....
 
 2.<h1>Stockage des données :</h1>
 Concevoir une structure de base de données appropriée pour stocker les données collectées, en utilisant des tables et des relations pour représenter les entités telles que les joueurs, les clubs, les ligues.
@@ -20,7 +20,6 @@ Nettoyer les données collectées en traitant les valeurs manquantes, les doublo
 Effectuer des transformations sur les données pour les préparer à l'analyse, telles que l'agrégation des statistiques des joueurs.
 
 4.<h1>Analyse et visualisation des données :</1>
-
 Utiliser des outils d'analyse de données tels que Python avec les bibliothèques pandas et NumPy pour effectuer des calculs statistiques et des analyses sur les données.
 Créer des visualisations graphiques pour représenter les résultats de l'analyse, utilisant des bibliothèques telles que Matplotlib ou Seaborn.
 
