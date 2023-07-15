@@ -14,20 +14,23 @@ Collecter les données économiques liées aux clubs et aux ligues, telles que l
 
 2.<h3>Stockage des données :</h3>
 Concevoir une structure de base de données appropriée pour stocker les données collectées, en utilisant des tables et des relations pour représenter les entités telles que les joueurs, les clubs, les ligues.
-Utiliser un système de gestion de base de données (SGBD) adapté, tel que MySQL ou PostgreSQL, pour stocker les données au vue d'exploitation.
+Utiliser un système de gestion de base de données (SGBD) adapté, tel que <b>MySQL</b> ou <b>PostgreSQL</b>, pour stocker les données au vue d'exploitation.
 
 3.<h3>Nettoyage et transformation des données :</h3>
 Nettoyer les données collectées en traitant les valeurs manquantes, les doublons, les erreurs.
 Effectuer des transformations sur les données pour les préparer à l'analyse, telles que l'agrégation des statistiques des joueurs.
+La mise en place de pipeline ETL, ELT avec automatisation et outils Cloud.
 
 4.<h3>Analyse et visualisation des données :</h3>
-Utiliser des outils d'analyse de données tels que Python avec les bibliothèques pandas et NumPy pour effectuer des calculs statistiques et des analyses sur les données.
-Créer des visualisations graphiques pour représenter les résultats de l'analyse, utilisant des bibliothèques telles que Matplotlib ou Seaborn.
+Utiliser des outils d'analyse de données tels que Python avec les bibliothèques <b>Pandas</b> et <b>Numpy</b> pour effectuer des calculs statistiques et des analyses sur les données.
+Créer des visualisations graphiques pour représenter les résultats de l'analyse, utilisant des bibliothèques telles que <b>Matplolib</b> ou <b>Seaborn</b>.
 
 5.<h3>Interprétation des résultats :</h3>
 Analyser les résultats de l'analyse pour déterminer les tendances, les corrélations et les relations entre les performances des joueurs de football et les aspects économiques.
 Fournir des informations et des conclusions sur l'impact économique des joueurs nominés et primés par le Ballon d'Or sur les clubs et les ligues.
 Ce projet de data engineering combinant le Ballon d'Or et l'économie pourrait offrir une compréhension approfondie de l'interaction entre les performances sportives individuelles et les résultats économiques dans le monde du football professionnel.
+
+
 
 <h4>Vocabulary :</h4> 
 <ul>
