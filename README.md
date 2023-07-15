@@ -6,15 +6,18 @@ plays for differents national selection.
 Whats says numbers about Gold players.
 
 <h4>Vocabulary :</h4>  We provide definition about each column of Tab dataframe
-Rank : Place in the classement
-Nom :
-Club : 
-Country : Country of club
-Selection	: National selection for which the player plays at the time of his appointment
-Poste : main Position held by the player in his club
-Points : Point obtained during the election, after jury vote
-Year	: Year of nomination
-Confederation : Confedration between Five confederation recognized  by F.I.F.A institution	: CAF, UEFA,CONMEBOL...
+<ul>
+<li>Rank : Place in the classement </li>
+<li>Nom : </li>
+<li>Club : </li>
+<li>Country : Country of club </li>
+<li>Selection	: National selection for which the player plays at the time of his appointment </li>
+<li>Poste : main Position held by the player in his club </li>
+<li>Points : Point obtained during the election, after jury vote </li>
+<li>Year	: Year of nomination </li>
+<li>Confederation : Confedration between Five confederation recognized  by F.I.F.A institution	: CAF, UEFA,CONMEBOL... </li>   
+</ul>
+
 
 1. Create data source for analyse.
      Use Web Scraping for get Data about football players (Use Python, Notebook and MySQL)
